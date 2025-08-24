@@ -1,0 +1,9 @@
+families:
+  e5_gte:
+    query: "query: {text}"
+    passage: "passage: {text}"
+
+reranker:
+  pair_format:
+    query_key: "query"
+    passage_key: "passage"

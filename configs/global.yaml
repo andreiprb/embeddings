@@ -1,0 +1,28 @@
+seed: 42
+languages: [ro, en]
+
+chunking:
+  size_tokens: 300
+  overlap_tokens: 60
+
+retrieval:
+  top_k: 10
+  similarity: cosine
+
+ann:
+  faiss:
+    index: HNSW
+    m: 64
+    ef_construction: 200
+    ef_search: 128
+
+reporting:
+  latency_percentiles: [50, 95]
+  slices: [overall, ro_ro, en_en, ro_en, en_ro, metaphor_only, literal_confounders]
+
+paths:
+  raw_docs: data/raw_docs/corpus_{}.docx
+  chunks_parquet: data/chunks.parquet
+  queries_eval: data/queries_eval.jsonl
+  qrels_eval: data/qrels_eval.trec
+  qa_gold: data/qa_gold.jsonl

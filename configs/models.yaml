@@ -1,0 +1,20 @@
+dual_encoders:
+  - name: e5-multilingual
+    hf_id: "intfloat/multilingual-e5-large"
+  - name: gte-multilingual
+    hf_id: "Alibaba-NLP/gte-multilingual-base"
+  - name: labse
+    hf_id: "sentence-transformers/LaBSE"
+
+tuned_candidate:
+  base: gte-multilingual
+  output_dir: "models/emb-business-multilingual-ft"
+
+reranker:
+  name: "jina-reranker-v2-base-multilingual"
+  hf_id: "jinaai/jina-reranker-v2-base-multilingual"
+  apply_in_production_view_only: true
+
+generator_llm:
+  name: "Qwen2.5-7B-Instruct"
+  hf_id: "Qwen/Qwen2.5-7B-Instruct"
