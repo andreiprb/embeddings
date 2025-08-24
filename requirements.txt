@@ -2,3 +2,4 @@ pandas
 python-docx
 docx2txt
 pyarrow
+spacy

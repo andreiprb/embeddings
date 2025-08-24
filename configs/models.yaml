@@ -11,10 +11,11 @@ tuned_candidate:
   output_dir: "models/emb-business-multilingual-ft"
 
 reranker:
-  name: "jina-reranker-v2-base-multilingual"
-  hf_id: "jinaai/jina-reranker-v2-base-multilingual"
+  name: "bge-reranker-v2-m3"
+  hf_id: "BAAI/bge-reranker-v2-m3"
   apply_in_production_view_only: true
 
+# perhaps switch to OpenLLM-Ro/RoLlama2-7b-Instruct
 generator_llm:
   name: "Qwen2.5-7B-Instruct"
   hf_id: "Qwen/Qwen2.5-7B-Instruct"
