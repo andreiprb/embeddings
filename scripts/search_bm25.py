@@ -3,9 +3,9 @@ Query a BM25 index and print top-k results.
 Requires an index built by build_bm25.py.
 
 Usage:
-  python scripts/bm25_search.py --lang ro --k 5 --query "ce înseamnă 'vânturi potrivnice' în context de afaceri?"
-  python scripts/bm25_search.py --lang en --k 10 --query "explain short squeeze in plain English"
-  python scripts/bm25_search.py --lang ro --file queries.txt  # one query per line
+  python scripts/search_bm25.py --lang ro --k 5 --query "ce înseamnă 'vânturi potrivnice' în context de afaceri?"
+  python scripts/search_bm25.py --lang en --k 10 --query "explain short squeeze in plain English"
+  python scripts/search_bm25.py --lang ro --file queries.txt  # one query per line
 
 Optional:
   --chunks data/chunks.parquet
