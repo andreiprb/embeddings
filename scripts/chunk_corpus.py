@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Sentence-aware chunker (spaCy, streaming blocks) with token budget and sentence overlap — DOCX ONLY.
 
