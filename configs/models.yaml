@@ -1,0 +1,29 @@
+dual_encoders:
+  - name: e5-multilingual
+    hf_id: "intfloat/multilingual-e5-large"
+    family: "e5_gte"
+  - name: gte-multilingual
+    hf_id: "Alibaba-NLP/gte-multilingual-base"
+    family: "e5_gte"
+  - name: labse
+    hf_id: "sentence-transformers/LaBSE"
+    family: "labse"
+
+tuned_candidates:
+  - base: gte-multilingual
+    output_dir: "models/emb-business-multilingual-ft"
+  - base: e5-multilingual
+    output_dir: "models/emb-e5-multilingual-ft"
+  - base: labse
+    output_dir: "models/emb-labse-ft"
+
+reranker:
+  name: "bge-reranker-v2-m3"
+  hf_id: "BAAI/bge-reranker-v2-m3"
+  apply_in_production_view_only: true
+
+generator_llms:
+  - name: "Qwen2.5-7B-Instruct"
+    hf_id: "Qwen/Qwen2.5-7B-Instruct"
+  - name: "RoLlama2-7b-Instruct"
+    hf_id: "OpenLLM-Ro/RoLlama2-7b-Instruct"

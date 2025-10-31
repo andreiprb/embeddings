@@ -1,0 +1,9 @@
+# Ignore all pickle, Word, and Parquet files recursively
+*.pkl
+*.docx
+*.parquet
+
+# (Optional) also ignore backups or temporary files
+~$*.docx
+*.tmp
+*.bak

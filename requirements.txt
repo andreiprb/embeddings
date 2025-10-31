@@ -1,0 +1,14 @@
+sentence-transformers
+sentencepiece
+sacremoses
+pandas
+python-docx
+docx2txt
+pyarrow
+spacy
+rank-bm25
+orjson
+faiss-cpu
+PyYAML
+numpy
+xlsxwriter

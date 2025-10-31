@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-10-07T11:17:36.081535Z",
+  "config": {
+    "size_tokens": 300,
+    "overlap_tokens": 60,
+    "spacy_block_chars": 100000
+  },
+  "inputs": {
+    "docx_ro": "data/raw/corpus_ro.docx",
+    "docx_en": "data/raw/corpus_en.docx"
+  },
+  "docs_processed": 2,
+  "chunks_total": 5964,
+  "by_lang": {
+    "ro": 3019,
+    "en": 2945
+  },
+  "output": "data/chunks/chunks.parquet"
+}

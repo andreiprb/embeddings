@@ -1,0 +1,100 @@
+{"qid": "ro_ro_001", "query": "explica metafora 'timpul înseamnă bani' in termeni simpli, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper1/2"}
+{"qid": "ro_ro_002", "query": "da-mi un exemplu de utilizare a metaforei 'timpul înseamnă bani'.", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "paper1/2"}
+{"qid": "ro_ro_003", "query": "explica metafora 'timpul curge printre degete' in termeni simpli, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_004", "query": "explica metafora 'timpul nu iarta' in termeni simpli, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_005", "query": "imi poți realiza o comparatie, in limba romana, intre 'timpul nu iarta' si 'time is a battlefield'? au ceva in comun?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_006", "query": "imi poți realiza o comparatie, intre 'timpul nu iarta' si 'timpul curge printre degete'? au ceva in comun?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_007", "query": "definește metafora 'timpul este combustibilul proiectului' in termeni simpli, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_008", "query": "definește metafora 'timpul este moneda productivității' in termeni simpli, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_009", "query": "imi poti realiza o comparatie, in limba romana, intre 'timpul este moneda productivității' si 'time is an investment'? au ceva in comun?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_010", "query": "da-mi un exemplu simplu si clar de utilizare a metaforei 'banii sunt lichizi' sau 'bani lichizi'.", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "paper3/4"}
+{"qid": "ro_ro_011", "query": "explica metafora 'banii se fac și se pierd ca apa'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_012", "query": "da-mi un exemplu clar de utilizare a metaforei 'banii se fac și se pierd ca apa'.", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_013", "query": "explica metafora 'banii sunt sângele afacerii'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_014", "query": "imi poti realiza o comparatie, in limba romana, intre 'banii sunt sângele afacerii' si 'money is a resource'? au ceva in comun?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_015", "query": "explica in limba romana, daca 'banii sunt sângele afacerii' si 'money is the lifeblood of business'au același înțeles atât în limba română cât și limba în engleză?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_016", "query": "explica metafora 'banii sunt motorul investițiilor'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_017", "query": "da-mi un exemplu clar de utilizare a metaforei 'banii se misca', in romana.", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_018", "query": "explica metafora 'banii sunt răsplata riscului'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_019", "query": "definește metafora 'banii sunt cheia oportunităților'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_020", "query": "explica metafora 'firma / compania / organizația este un organism viu'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper4/8"}
+{"qid": "ro_ro_021", "query": "explica in limba romana, daca 'firma / compania / organizația este un organism viu' si 'organisations are living organisms' au același înțeles atât în limba română cât și în limba engleză?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "ro_ro_022", "query": "definește metafora 'firma este un castel de idei'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_023", "query": "explica metafora 'firma este un mecanism complex'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_024", "query": "explica metafora 'firma / compania este o familie'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper12"}
+{"qid": "ro_ro_025", "query": "da-mi un exemplu simplu, pentru a intelege metafora 'firma / compania este o familie'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper12"}
+{"qid": "ro_ro_026", "query": "definește metafora 'puterea este moneda influenței'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_027", "query": "definește metafora 'puterea ridică sau doboară'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_028", "query": "imi poti realiza o comparatie, intre 'puterea ridică sau doboară' si 'power is a ladder'? au ceva in comun?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_029", "query": "definește metafora 'puterea este cheia deciziilor'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_030", "query": "imi poti realiza o comparatie, intre 'puterea este cheia deciziilor' si 'power is currency' cu exemple sugestive?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_031", "query": "definește metafora 'puterea este energia schimbării'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_032", "query": "imi poti realiza o comparatie, intre 'puterea este energia schimbării' si 'power is energy' cu exemple sugestive?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_033", "query": "definește metafora 'economia urcă sau coboară ca un lift'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_034", "query": "imi poti realiza o comparatie, intre 'economia urcă sau coboară ca un lift' si 'the economy is a moving object' cu exemple simple, sugestive?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_035", "query": "explica metafora 'creșterea economică este un val'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_036", "query": "explica metafora 'recesiunea este un tunel întunecat', in termeni simpli, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_037", "query": "definește metafora 'economia este o navă în derivă'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper11"}
+{"qid": "ro_ro_038", "query": "imi poti da un exemplu sugestiv pentru a-mi explica metafora 'economia este o navă în derivă'?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper11"}
+{"qid": "ro_ro_039", "query": "definește metafora 'economia este un organism viu'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7/11"}
+{"qid": "ro_ro_040", "query": "imi poti da cateva exemple sugestive pentru a-mi explica metafora 'economia este un organism viu'?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper11"}
+{"qid": "ro_ro_041", "query": "imi poti daca metaforele 'economia este un organism viu' si 'the economy is a living organism' au același înțeles atât în română cât și în engleză?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "paper7/11"}
+{"qid": "ro_ro_042", "query": "explica metafora 'economia pulsează ca o inimă', clar, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper11"}
+{"qid": "ro_ro_043", "query": "definește metafora 'economia este un ciclu de anotimpuri'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_044", "query": "definește metafora 'piața este o junglă'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_045", "query": "explica metafora 'piața este un ocean în continuă mișcare'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_046", "query": "imi poti explica daca metaforele 'piața este un ocean în continuă mișcare' si 'market changes are physical movements' sunt similare?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_047", "query": "imi poti da cel putin un exemplu sugestiv pentru a-mi explica metafora 'piața este un ocean în continuă mișcare'?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper13"}
+{"qid": "ro_ro_048", "query": "explica metafora 'piața este un teren de luptă'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_049", "query": "imi poti explica daca metaforele 'piața este un teren de luptă' si 'the market is a battlefield' au același înțeles atât în română cât și în engleză?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_050", "query": "definește metafora 'piața este oglinda cererii și ofertei'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_051", "query": "explica metafora 'piața dictează regulile jocului', clar, pe scurt.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_052", "query": "definește metafora 'încrederea este fundația echipei', scurt, la obiect, usor de intelesscurt, la obiect, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_053", "query": "explica metafora 'încrederea este un pod între oameni', clar, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_054", "query": "definește metafora 'încrederea este capital intangibil', simplu, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_055", "query": "definește metafora 'jobul este o rampă de lansare'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_056", "query": "explica 'jobul este o arenă de competiție' scurt, la obiect, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_057", "query": "definește metafora 'jobul este un teren de joacă profesional'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_058", "query": "exista vreo asemanare intre metaforele 'jobul este o arenă de competiție' si 'jobul este un teren de joacă profesional'?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_059", "query": "definește metafora 'jobul este o cale spre experiență'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_060", "query": "definește metafora 'jobul poate fi un cuțit cu două tăișuri'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_061", "query": "definește metafora 'liderul este farul echipei'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_062", "query": "definește metafora 'leadershipul este busola deciziilor'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "ro_ro_063", "query": "exista vreo asemanare intre metaforele 'liderul este farul echipei' si 'leadershipul este busola deciziilor'?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_064", "query": "metaforele 'leadership is a compass' si 'leadershipul este busola deciziilor' au același înțeles atât în română cât și în engleză?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_065", "query": "definește metafora 'liderul este motorul schimbării'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "ro_ro_066", "query": "explica metafora 'liderul deschide drumuri' scurt, la obiect, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "ro_ro_067", "query": "definește metafora 'liderul este sculptorul performanței echipei'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_068", "query": "definește metafora 'inovația este scânteia progresului'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_069", "query": "explica 'metafora 'inovația sparge tiparele' scurt, la obiect, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_070", "query": "definește metafora 'inovația este combustibilul afacerii'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_071", "query": "exista vreo asemanare între metaforele 'inovația este combustibilul afacerii' si 'timpul este combustibilul proiectului'?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_072", "query": "definește metafora 'inovația deschide noi orizonturi' clar, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_073", "query": "exista vreo asemanare intre metaforele 'inovația este scânteia progresului' si 'inovația deschide noi orizonturi'?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_074", "query": "explica metafora 'inovația este cheia / cheia competitivități' clar, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_075", "query": "da-mi un exemplu de utilizare a metaforei 'inovația este cheia / cheia competitivității' simplu, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper15/16"}
+{"qid": "ro_ro_076", "query": "imi poti explica dacă metaforele 'inovația este cheia competitivității' si 'innovation is the key' au același înțeles atât în română cât și în engleză?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_077", "query": "explica metafora 'echipa este un mecanism bine uns' clar, ușor de înțeles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_078", "query": "explica metafora 'echipa este o familie' clar, ușor de înțeles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_079", "query": "definește metafora 'echipa este un puzzle' clar, ușor de înțeles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_080", "query": "explica metafora 'echipa este lanțul care nu trebuie rupt' simplu, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_081", "query": "explica metafora 'echipa este orchestra proiectului' clar, usor de inteles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_082", "query": "definește metafora 'strategia este hartă și busolă'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_083", "query": "definește metafora 'strategia este un joc de șah'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_084", "query": "explică-mi metafora 'strategia este planul de zbor'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_085", "query": "definește metafora 'strategia este fundația succesului'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_086", "query": "definește metafora 'strategia este busola deciziilor în incertitudine'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "ro_ro_087", "query": "imi poti explica dacă metaforele 'strategia este busola deciziilor în incertitudine' si 'strategy is navigation' au inteles apropiat?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_088", "query": "explica metafora 'banii sunt bogatie', in termeni simpli, ușor de înțeles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper3"}
+{"qid": "ro_ro_089", "query": "definește metafora 'șomajul este dușmanul'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "ro_ro_090", "query": "explică-mi dacă metaforele 'șomajul este dușmanul' și 'unemployment is an enemy' au același înțeles atât în română cât și în engleză?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "ro_ro_091", "query": "definește metafora 'șomajul este o boală', în termeni simpli, ușor de înțeles.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "ro_ro_092", "query": "explică-mi dacă metaforele 'șomajul este o boală' și 'unemployment is a disease' au același înțeles atât în română cât și în engleză?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "ro_ro_093", "query": "explică metafora 'competiția dintre firme este război', clear, in simple terms.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper6/8"}
+{"qid": "ro_ro_094", "query": "ca să înțeleg mai bine, îmi poți da un exemplu pentru 'competiția dintre firme este război'?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "ro_ro_095", "query": "îmi poți explica dacă metaforele 'competiția dintre firme este război' și 'competition between organisations is war' au același înțeles?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "ro_ro_096", "query": "definește metafora 'criza este o boală'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper17"}
+{"qid": "ro_ro_097", "query": "ca să înțeleg mai bine, îmi poți da un exemplu pentru metafora 'criza este o boală'?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper17"}
+{"qid": "ro_ro_098", "query": "definește, în termeni simpli, metafora 'criza este război'.", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper17"}
+{"qid": "ro_ro_099", "query": "ca să înțeleg mai bine, îmi poți da un exemplu pentru metafora 'criza este război'?", "lang": "ro", "target_lang": "ro", "slice": "metaphor_only", "source": "paper17"}
+{"qid": "ro_ro_100", "query": "îmi poți explica dacă metaforele 'șomajul este o boală' și 'criza este o boală' au înțeles apropiat sau similar?", "lang": "ro", "target_lang": "ro", "slice": "general", "source": "synthetic"}

@@ -1,0 +1,100 @@
+{"qid": "en_ro_001", "query": "translate into romanian and explain the metaphor 'time is a resource' in simple, easy-to-understand terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper1"}
+{"qid": "en_ro_002", "query": "give me an example of a sentence using the metaphor 'time is money' so i can understand it easily.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper1/2"}
+{"qid": "en_ro_003", "query": "explain in romanian 'money is a river' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper1"}
+{"qid": "en_ro_004", "query": "explain in romanian 'money is a liquid' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper3/4"}
+{"qid": "en_ro_005", "query": "explain in romanian whether the metaphors 'time is a ticking clock' and 'timpul curge printre degete' have the same meaning?'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_006", "query": "give a clear example, in romanian, to understand the metaphor 'time is an investment'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_007", "query": "explain in romanian the metaphor 'time is a ticking clock' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_008", "query": "translate into romanian and explain the metaphor 'time is a battlefield' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_009", "query": "translate and explain in romanian 'time is food' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_010", "query": "in romanian, give me diferent examples, to understand the metaphors 'money is a liquid' and 'bani lichizi'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper3/4"}
+{"qid": "en_ro_011", "query": "what does a 'profit' or 'loss' mean when talking about time? explain  in romanian with examples.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_012", "query": "translate into romanian and explain the metaphor 'money is a resource'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_013", "query": "translate into romanian and explain the metaphor 'money is a moving object' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_014", "query": "define in romanian the metaphor 'money is wealth' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper3"}
+{"qid": "en_ro_015", "query": "explain in romanian with examples 'money is security'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_016", "query": "explain in romanian the metaphor 'money is solid', in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper4/5"}
+{"qid": "en_ro_017", "query": "explain and give a clear example in romanian for 'money is the lifeblood of business'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_018", "query": "define in romanian 'money is fuel' clear, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_019", "query": "give a clear example, in romanian, of using the metaphor 'money is fuel'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "metaphor_list"}
+{"qid": "en_ro_020", "query": "explain in romanian 'money is a magnet', in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_021", "query": "explain in romanian 'money is a tool' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_022", "query": "explain in romanian, with examples 'competition between organisations is war', clear, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper6/8"}
+{"qid": "en_ro_023", "query": "tell me a definition in romanian of 'competition between organisations is war'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_024", "query": "define in romanian 'competition between organisations is gambling' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_025", "query": "give an example of using the metaphor 'competition between organisations is gambling, in romanian'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_026", "query": "explain in romanian 'economic problems are natural disasters' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_027", "query": "give an example of using the metaphor 'the economy is a container', in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper4/10"}
+{"qid": "en_ro_028", "query": "in romanian, define the metaphor 'the economy is human'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_029", "query": "explain in romanian, 'the economy is a living organism' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_030", "query": "give a clear example of using the metaphor 'the economy is a living organism', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7/11"}
+{"qid": "en_ro_031", "query": "explain 'the economy is a machine / engine' clear, in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_032", "query": "give a clear example of using the metaphor 'the economy is a machine / engine', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7"}
+{"qid": "en_ro_033", "query": "define, in romanian, 'the economy is a moving object' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_034", "query": "explain, in romanian, 'the economy is a thinking entity' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_035", "query": "explain 'the economy is a vehicle' in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_036", "query": "in romanian, give a clear example of using the metaphor 'the economy is a vehicle'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7"}
+{"qid": "en_ro_037", "query": "explain in romanian what are the differences between 'the economy is a machine / engine' and 'the economy is a vehicle' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7"}
+{"qid": "en_ro_038", "query": "explain 'investments are containers for money', in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper10"}
+{"qid": "en_ro_039", "query": "explain, in romanian, 'market changes are physical movements', in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper13"}
+{"qid": "en_ro_040", "query": "define in romanian 'organisations are systems of change'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_041", "query": "give a clear example of using the metaphor 'organisations are systems of change', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_042", "query": "explain, in romanian, 'organisations are living organisms' in simple terms, easy to understand.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_043", "query": "in romanian, give an example of using the metaphor 'organisations are living organisms'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_044", "query": "explain, in romanian, 'organisations are learning environments' clear, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_045", "query": "give an example of using the metaphor 'organisations are learning environments', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_046", "query": "explain 'organisations are instruments of domination' in simple terms, in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_047", "query": "give an example of using the metaphor 'organisations are instruments of domination', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_048", "query": "explain in romanian 'organisations are political systems' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_049", "query": "give an example of using the metaphor 'organisations are political systems', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_050", "query": "explain in romanian 'unemployment is a disease' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_ro_051", "query": "in romanian, give a clear example of using the metaphor 'unemployment is a disease'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper9"}
+{"qid": "en_ro_052", "query": "define in romanian 'unemployment is an enemy' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_ro_053", "query": "give an example of using the metaphor 'unemployment is an enemy', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper9"}
+{"qid": "en_ro_054", "query": "define 'work is moral and social responsibility', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_ro_055", "query": "in romanian, give an example of using the metaphor 'work is moral and social responsibility'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper9"}
+{"qid": "en_ro_056", "query": "define in romanian 'opportunities are objects', in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper6"}
+{"qid": "en_ro_057", "query": "give an example of using the metaphor 'opportunities are objects' in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper6"}
+{"qid": "en_ro_058", "query": "define in romanian 'opportunities are open paths' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_059", "query": "give an example of using the metaphor 'opportunities are open paths', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper6"}
+{"qid": "en_ro_060", "query": "explain in romanian 'at a crossroads'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_061", "query": "define in romanian 'low-hanging fruit', in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_062", "query": "explain in romanian 'a leader is a captain of the ship' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_ro_063", "query": "define in romanian 'leadership is a torch' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_ro_064", "query": "explain 'leadership is a compass' in simple terms, in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_ro_065", "query": "define in romanian 'a leader is the engine of the team' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_066", "query": "explain in romanian 'innovation is the key' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper15/16"}
+{"qid": "en_ro_067", "query": "define in romanian 'innovation is a spark' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper16"}
+{"qid": "en_ro_068", "query": "in romanian, define 'innovation is the engine of growth' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_069", "query": "define 'innovation is a wave' in simple terms, in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper16"}
+{"qid": "en_ro_070", "query": "in romanian, define 'the market is a battlefield' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_071", "query": "in romanian, define 'market is a jungle' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_072", "query": "explain 'a team is a well-oiled machine', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_073", "query": "explain in romanian 'a team is a family' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_074", "query": "define in romanian 'a team is a puzzle' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_075", "query": "define 'a team is a symphony', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_076", "query": "define 'a team is a chain', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_077", "query": "in romanian, explain 'strategy is a roadmap' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_078", "query": "define, in romanian, 'strategy is a chess game' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_079", "query": "explain, in romanian, 'strategy is a weapon' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_080", "query": "define 'strategy is navigation', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_081", "query": "in romanian, define 'a company is a ship' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_082", "query": "define 'a company is a family', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper12"}
+{"qid": "en_ro_083", "query": "define, in romanian, 'a company is a machine' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper5"}
+{"qid": "en_ro_084", "query": "in romanian, define 'a company is a living organism' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper4/5"}
+{"qid": "en_ro_085", "query": "explain, in romanian, whether the metaphors 'a company is a living organism' and 'organisations are living organisms' have the same meaning?'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_086", "query": "define, in romanian, 'power is currency' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_087", "query": "in romanian, define 'power is a weapon' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_088", "query": "define 'power is a ladder', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_089", "query": "explain, in romanian, 'power is energy' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_090", "query": "in romanian, explain 'recession is a storm' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_091", "query": "define 'the economy is a cycle' in simple terms, in romanian.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_092", "query": "define, in romanian, 'trust is the glue of the team' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_093", "query": "in romanian, define 'trust is a bridge' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_094", "query": "define, in romanian, 'trust is currency' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_095", "query": "define 'growth is a journey uphill', in romanian, in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_096", "query": "in romanian, define 'banks are containers for money' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper3"}
+{"qid": "en_ro_097", "query": "give an example of using the metaphor 'banks are containers for money', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper3"}
+{"qid": "en_ro_098", "query": "define, in romanian, 'responsibilities are possessions' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper6"}
+{"qid": "en_ro_099", "query": "give an example of using the metaphor 'responsibilities are possessions', in romanian.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper6"}
+{"qid": "en_ro_100", "query": "in romanian, define good is up / bad is down' in simple terms.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}

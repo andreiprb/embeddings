@@ -1,0 +1,100 @@
+{"qid": "en_ro_001", "query": "tradu în română și explică metafora 'timpul este o resursă' în termeni simpli, ușor de înțeles.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper1"}
+{"qid": "en_ro_002", "query": "dă-mi un exemplu de propoziție care folosește metafora 'timpul înseamnă bani', ca să o pot înțelege mai ușor.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper1/2"}
+{"qid": "en_ro_003", "query": "explică în română 'banii sunt un râu', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper1"}
+{"qid": "en_ro_004", "query": "explică în română 'banii sunt un lichid', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper3/4"}
+{"qid": "en_ro_005", "query": "explică în română dacă metaforele 'time is a ticking clock' și 'timpul curge printre degete' au același sens.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_006", "query": "dă un exemplu clar, în română, ca să pot înțelege metafora 'timpul este o investiție'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_007", "query": "explică în română metafora 'time is a ticking clock', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_008", "query": "tradu în română și explică metafora 'timpul este un câmp de luptă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_009", "query": "tradu și explică în română 'timpul este hrană', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_010", "query": "în română, dă-mi exemple diferite, ca să pot înțelege metaforele 'money is a liquid' și 'bani lichizi'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper3/4"}
+{"qid": "en_ro_011", "query": "ce înseamnă 'profit' sau 'pierdere' când vorbim despre timp? explică în română, cu exemple.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_012", "query": "tradu în română și explică metafora 'banii sunt o resursă'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_013", "query": "tradu în română și explică metafora 'banii sunt un obiect care se mișcă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_014", "query": "definește în română metafora 'banii sunt avere', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper3"}
+{"qid": "en_ro_015", "query": "explică în română, cu exemple, 'banii sunt siguranță'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_016", "query": "explică în română metafora 'banii sunt solizi', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper4/5"}
+{"qid": "en_ro_017", "query": "explică și dă un exemplu clar, în română, pentru 'banii sunt sângele vital al afacerilor'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_018", "query": "definește în română 'banii sunt combustibil', clar și în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_019", "query": "dă un exemplu clar, în română, de folosire a metaforei 'banii sunt combustibil'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "metaphor_list"}
+{"qid": "en_ro_020", "query": "explică în română 'banii sunt un magnet', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_021", "query": "explică în română 'banii sunt o unealtă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_022", "query": "explică în română, cu exemple, 'competiția dintre organizații este război', clar și în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper6/8"}
+{"qid": "en_ro_023", "query": "dă-mi o definiție în română pentru 'competiția dintre organizații este război'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_024", "query": "definește în română 'competiția dintre organizații este un joc de noroc', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_025", "query": "dă un exemplu de folosire a metaforei 'competiția dintre organizații este un joc de noroc', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_026", "query": "explică în română 'problemele economice sunt dezastre naturale', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_027", "query": "dă un exemplu de folosire a metaforei 'economia este un container', în română.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper4/10"}
+{"qid": "en_ro_028", "query": "în română, definește metafora 'economia este umană'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_029", "query": "explică în română 'economia este un organism viu', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_030", "query": "dă un exemplu clar de folosire a metaforei 'economia este un organism viu', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7/11"}
+{"qid": "en_ro_031", "query": "explică clar, în română, 'economia este o mașină / un motor'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_032", "query": "dă un exemplu clar de folosire a metaforei 'economia este o mașină / un motor', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7"}
+{"qid": "en_ro_033", "query": "definește, în română, 'economia este un obiect care se mișcă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_034", "query": "explică, în română, 'economia este o entitate care gândește', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_035", "query": "explică în română 'economia este un vehicul'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_ro_036", "query": "în română, dă un exemplu clar de folosire a metaforei 'economia este un vehicul'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7"}
+{"qid": "en_ro_037", "query": "explică în română care sunt diferențele dintre 'economia este o mașină / un motor' și 'economia este un vehicul', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper7"}
+{"qid": "en_ro_038", "query": "explică în română 'investițiile sunt containere pentru bani'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper10"}
+{"qid": "en_ro_039", "query": "explică, în română, 'schimbările pieței sunt mișcări fizice', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper13"}
+{"qid": "en_ro_040", "query": "definește în română 'organizațiile sunt sisteme ale schimbării'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_041", "query": "dă un exemplu clar de folosire a metaforei 'organizațiile sunt sisteme ale schimbării', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_042", "query": "explică, în română, 'organizațiile sunt organisme vii', în termeni simpli, ușor de înțeles.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_043", "query": "în română, dă un exemplu de folosire a metaforei 'organizațiile sunt organisme vii'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_044", "query": "explică, în română, 'organizațiile sunt medii de învățare', clar și în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_045", "query": "dă un exemplu de folosire a metaforei 'organizațiile sunt medii de învățare', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_046", "query": "explică 'organizațiile sunt instrumente de dominare', în termeni simpli, în română.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_047", "query": "dă un exemplu de folosire a metaforei 'organizațiile sunt instrumente de dominare', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_048", "query": "explică în română 'organizațiile sunt sisteme politice', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_ro_049", "query": "dă un exemplu de folosire a metaforei 'organizațiile sunt sisteme politice', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper8"}
+{"qid": "en_ro_050", "query": "explică în română 'șomajul este o boală', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_ro_051", "query": "în română, dă un exemplu clar de folosire a metaforei 'șomajul este o boală'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper9"}
+{"qid": "en_ro_052", "query": "definește în română 'șomajul este un dușman', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_ro_053", "query": "dă un exemplu de folosire a metaforei 'șomajul este un dușman', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper9"}
+{"qid": "en_ro_054", "query": "definește 'munca este o responsabilitate morală și socială', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_ro_055", "query": "în română, dă un exemplu de folosire a metaforei 'munca este o responsabilitate morală și socială'.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper9"}
+{"qid": "en_ro_056", "query": "definește în română 'oportunitățile sunt obiecte', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper6"}
+{"qid": "en_ro_057", "query": "dă un exemplu de folosire a metaforei 'oportunitățile sunt obiecte', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper6"}
+{"qid": "en_ro_058", "query": "definește în română 'oportunitățile sunt drumuri deschise', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_059", "query": "dă un exemplu de folosire a metaforei 'oportunitățile sunt drumuri deschise', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper6"}
+{"qid": "en_ro_060", "query": "explică în română expresia 'la o intersecție de drumuri'.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_061", "query": "definește în română 'fruct ușor de cules', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_062", "query": "explică în română 'un lider este căpitanul navei', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_ro_063", "query": "definește în română 'conducerea este o torță', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_ro_064", "query": "explică 'conducerea este o busolă', în termeni simpli, în română.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_ro_065", "query": "definește în română 'un lider este motorul echipei', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_066", "query": "explică în română 'inovația este cheia', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper15/16"}
+{"qid": "en_ro_067", "query": "definește în română 'inovația este o scânteie', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper16"}
+{"qid": "en_ro_068", "query": "în română, definește 'inovația este motorul creșterii', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_069", "query": "definește 'inovația este un val', în termeni simpli, în română.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper16"}
+{"qid": "en_ro_070", "query": "în română, definește 'piața este un câmp de luptă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_071", "query": "în română, definește 'piața este o junglă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_072", "query": "explică 'o echipă este o mașină bine unsă', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_073", "query": "explică în română 'o echipă este o familie', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_074", "query": "definește în română 'o echipă este un puzzle', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_075", "query": "definește 'o echipă este o simfonie', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_076", "query": "definește 'o echipă este un lanț', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_077", "query": "în română, explică 'strategia este o hartă rutieră', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_078", "query": "definește, în română, 'strategia este un joc de șah', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_079", "query": "explică, în română, 'strategia este o armă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_080", "query": "definește 'strategia este navigație', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_081", "query": "în română, definește 'o companie este o navă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_082", "query": "definește 'o companie este o familie', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper12"}
+{"qid": "en_ro_083", "query": "definește, în română, 'o companie este o mașină', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper5"}
+{"qid": "en_ro_084", "query": "în română, definește 'o companie este un organism viu', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper4/5"}
+{"qid": "en_ro_085", "query": "explică, în română, dacă metaforele 'o companie este un organism viu' și 'organizațiile sunt organisme vii' au același sens.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "synthetic"}
+{"qid": "en_ro_086", "query": "definește, în română, 'puterea este o monedă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_087", "query": "în română, definește 'puterea este o armă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_088", "query": "definește 'puterea este o scară', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_089", "query": "explică, în română, 'puterea este energie', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_ro_090", "query": "în română, explică 'recesiunea este o furtună', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_091", "query": "definește 'economia este un ciclu', în termeni simpli, în română.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_092", "query": "definește, în română, 'încrederea este lipiciul echipei', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_093", "query": "în română, definește 'încrederea este un pod', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_094", "query": "definește, în română, 'încrederea este o monedă', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_095", "query": "definește 'creșterea este o călătorie în pantă', în română, în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_ro_096", "query": "în română, definește 'băncile sunt containere pentru bani', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper3"}
+{"qid": "en_ro_097", "query": "dă un exemplu de folosire a metaforei 'băncile sunt containere pentru bani', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper3"}
+{"qid": "en_ro_098", "query": "definește, în română, 'responsabilitățile sunt posesiuni', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "paper6"}
+{"qid": "en_ro_099", "query": "dă un exemplu de folosire a metaforei 'responsabilitățile sunt posesiuni', în română.", "lang": "en", "target_lang": "ro", "slice": "general", "source": "paper6"}
+{"qid": "en_ro_100", "query": "în română, definește 'binele este sus / răul este jos', în termeni simpli.", "lang": "en", "target_lang": "ro", "slice": "metaphor_only", "source": "metaphor_list"}

@@ -1,0 +1,11 @@
+{
+  "chunks": "data/chunks/chunks.parquet",
+  "built": {
+    "ro": "indexes/bm25/ ro.pkl",
+    "en": "indexes/bm25/ en.pkl"
+  },
+  "params": {
+    "k1": 1.5,
+    "b": 0.75
+  }
+}

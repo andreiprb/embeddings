@@ -1,0 +1,43 @@
+seed: 42
+languages: [ro, en]
+
+chunking:
+  size: 300
+  overlap: 60
+
+  spacy:
+    ro_model: ro_core_news_sm
+    en_model: en_core_web_sm
+    fallback: xx_sent_ud_sm
+    block_chars: 100_000
+
+bm25:
+  k1: 1.5
+  b: 0.75
+
+  retrieved_k: 100
+  random_k: 5
+  top_k: 15
+
+faiss:
+  index: HNSW
+  m: 64
+  ef_construction: 200
+  ef_search: 128
+
+  batch_size: 256
+  device: mps
+
+retrieval:
+  top_k: 10
+  similarity: cosine
+
+reporting:
+  latency_percentiles: [50, 95]
+  slices: [overall,
+           ro_ro,
+           en_en,
+           ro_en,
+           en_ro,
+           metaphor_only,
+           literal_confounders]

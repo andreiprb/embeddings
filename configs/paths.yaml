@@ -1,0 +1,29 @@
+data:
+  raw: data/raw/corpus_{}.docx # (ro /en)
+
+chunks:
+  parquet: data/chunks/chunks.parquet
+  report: reports/chunks/chunks_report.json
+
+queries:
+  eval: queries/queries_eval.jsonl
+  qrels_v1: queries/qrels_v1.jsonl
+
+  ro_ro: queries/monolingual/ro_ro.jsonl
+  en_en: queries/monolingual/en_en.jsonl
+  ro_en: queries/crosslingual/ro_en.jsonl
+  en_ro: queries/crosslingual/en_ro.jsonl
+
+  translated_en: queries/crosslingual/ro_en_translated.jsonl
+  translated_ro: queries/crosslingual/en_ro_translated.jsonl
+
+  report: reports/queries/queries_report.csv
+
+bm25:
+  pkl: indexes/bm25/ {}.pkl # (ro / en)
+  report: reports/bm25/bm25_report.json
+  search_report: reports/bm25/search/{}.json # (ro_ro, ro_en, en_en, en_ro)
+
+faiss:
+  pkl: indexes/faiss/{model}/{lang}/index.pkl # model, (ro / en)
+  faiss: indexes/faiss/{model}/{lang}/index.faiss # model, (ro / en)

@@ -1,0 +1,100 @@
+{"qid": "en_en_001", "query": "explain 'time is money' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper1/2"}
+{"qid": "en_en_002", "query": "explain 'time is a resource' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper1"}
+{"qid": "en_en_003", "query": "what are the differences between 'money is a resource' and 'time is money' in simple terms.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper1"}
+{"qid": "en_en_004", "query": "explain 'time is a river' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper1"}
+{"qid": "en_en_005", "query": "give a clear example of using the metaphor 'time is an investment'.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper1"}
+{"qid": "en_en_006", "query": "explain 'time is a ticking clock' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_en_007", "query": "explain 'time is a battlefield' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_008", "query": "explain 'time is food' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_en_009", "query": "explain 'money is a liquid' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper3/4"}
+{"qid": "en_en_010", "query": "give a clear example of using the metaphor 'money is a liquid'.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper3/4"}
+{"qid": "en_en_011", "query": "what does a 'profit' or 'loss' mean when talking about time?", "lang": "en", "target_lang": "en", "slice": "general", "source": "synthetic"}
+{"qid": "en_en_012", "query": "give a clear example of using the metaphor 'money is a resource'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "synthetic"}
+{"qid": "en_en_013", "query": "explain 'money is a moving object' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_014", "query": "define the metaphor 'money is wealth' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper3"}
+{"qid": "en_en_015", "query": "explain 'money is security' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_016", "query": "define the metaphor 'money is solid' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper4/5"}
+{"qid": "en_en_017", "query": "explain 'money is the lifeblood of business' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_018", "query": "define 'money is fuel' clear, in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_019", "query": "give a clear example of using the metaphor 'money is fuel'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "synthetic"}
+{"qid": "en_en_020", "query": "explain 'money is a magnet' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_021", "query": "explain 'money is a tool' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_022", "query": "explain 'competition between organisations is war', clear, in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper6/8"}
+{"qid": "en_en_023", "query": "tell me a definition of 'competition between organisations is war' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_en_024", "query": "define 'competition between organisations is gambling' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_en_025", "query": "give an example of using the metaphor 'competition between organisations is gambling'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper8"}
+{"qid": "en_en_026", "query": "explain 'economic problems are natural disasters' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_027", "query": "explain 'the economy is a container for money' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper4/10"}
+{"qid": "en_en_028", "query": "define the metaphor 'the economy is human' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_en_029", "query": "explain 'the economy is a living organism' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper7/11"}
+{"qid": "en_en_030", "query": "give a clear example of using the metaphor 'the economy is a living organism'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper7"}
+{"qid": "en_en_031", "query": "explain 'the economy is a machine / engine' clear, in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_en_032", "query": "give a clear example of using the metaphor 'the economy is a machine / engine'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper7"}
+{"qid": "en_en_033", "query": "define 'the economy is a moving object' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_034", "query": "explain 'the economy is a thinking entity' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_035", "query": "explain 'the economy is a vehicle' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper7"}
+{"qid": "en_en_036", "query": "give a clear example of using the metaphor 'the economy is a vehicle'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper7"}
+{"qid": "en_en_037", "query": "what are the differences between 'the economy is a machine / engine' and 'the economy is a vehicle' in simple terms.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper7"}
+{"qid": "en_en_038", "query": "explain 'investments are containers for money' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper10"}
+{"qid": "en_en_039", "query": "explain 'market changes are physical movements' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper13"}
+{"qid": "en_en_040", "query": "explain 'organisations are systems of change ' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_en_041", "query": "give a clear example of using the metaphor 'organisations are systems of change'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper8"}
+{"qid": "en_en_042", "query": "explain 'organisations are living organisms' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_en_043", "query": "give an example of using the metaphor 'organisations are living organisms'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper8"}
+{"qid": "en_en_044", "query": "explain 'organisations are learning environments' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_en_045", "query": "give an example of using the metaphor 'organisations are learning environments'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper8"}
+{"qid": "en_en_046", "query": "explain 'organisations are instruments of domination' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_en_047", "query": "give an example of using the metaphor 'organisations are instruments of domination'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper8"}
+{"qid": "en_en_048", "query": "explain 'organisations are political systems' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper8"}
+{"qid": "en_en_049", "query": "give an example of using the metaphor 'organisations are political systems'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper8"}
+{"qid": "en_en_050", "query": "explain 'unemployment is a disease' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_en_051", "query": "give an example of using the metaphor 'unemployment is a disease'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper9"}
+{"qid": "en_en_052", "query": "define 'unemployment is an enemy' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_en_053", "query": "give an example of using the metaphor 'unemployment is an enemy'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper9"}
+{"qid": "en_en_054", "query": "define 'work is moral and social responsibility' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper9"}
+{"qid": "en_en_055", "query": "give an example of using the metaphor 'work is moral and social responsibility'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper9"}
+{"qid": "en_en_056", "query": "define 'opportunities are objects' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper6"}
+{"qid": "en_en_057", "query": "give an example of using the metaphor 'opportunities are objects'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper6"}
+{"qid": "en_en_058", "query": "define 'opportunities are open paths' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_059", "query": "give an example of using the metaphor 'opportunities are open paths'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper6"}
+{"qid": "en_en_060", "query": "explain 'at a crossroads' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_061", "query": "define 'low-hanging fruit' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_062", "query": "define 'a leader is a captain of the ship' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_en_063", "query": "define 'leadership is a torch' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_en_064", "query": "explain 'leadership is a compass' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper14"}
+{"qid": "en_en_065", "query": "define 'a leader is the engine of the team' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_066", "query": "explain 'innovation is the key' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper15/16"}
+{"qid": "en_en_067", "query": "define 'innovation is a spark' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper16"}
+{"qid": "en_en_068", "query": "define 'innovation is the engine of growth' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_069", "query": "define 'innovation is a wave' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_070", "query": "define 'the market is a battlefield' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_071", "query": "define 'market is a jungle' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_072", "query": "explain 'a team is a well-oiled machine' in simple terms to understand how can we interpret this metaphor in terms of collaboration.", "lang": "en", "target_lang": "en", "slice": "general", "source": "synthetic"}
+{"qid": "en_en_073", "query": "explain 'a team is a family' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_074", "query": "define 'a team is a puzzle' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_075", "query": "define 'a team is a symphony' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_076", "query": "define 'a team is a chain' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_077", "query": "explain 'strategy is a roadmap' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_078", "query": "define 'strategy is a chess game' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_079", "query": "explain 'strategy is a weapon' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_080", "query": "define 'strategy is navigation' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_081", "query": "define 'a company is a ship' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_082", "query": "define 'a company is a family' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper12"}
+{"qid": "en_en_083", "query": "define 'a company is a machine' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper5"}
+{"qid": "en_en_084", "query": "define 'a company is a living organism' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper5"}
+{"qid": "en_en_085", "query": "explain whether the metaphors 'a company is a living organism' and 'organisations are living organisms' have the same meaning?'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "synthetic"}
+{"qid": "en_en_086", "query": "define 'power is currency' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_087", "query": "define 'power is a weapon' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_088", "query": "define 'power is a ladder' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_089", "query": "explain 'power is energy' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "synthetic"}
+{"qid": "en_en_090", "query": "define 'recession is a storm' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_091", "query": "define 'the economy is a cycle' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_092", "query": "define 'trust is the glue of the team' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_093", "query": "define 'trust is a bridge' in simple terms to understand what are the consequences of having a weak bridge of trust in an organization?", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_094", "query": "define 'trust is currency' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_095", "query": "define 'growth is a journey uphill' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}
+{"qid": "en_en_096", "query": "define 'banks are containers for money' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper3/10"}
+{"qid": "en_en_097", "query": "give an example of using the metaphor 'banks are containers for money'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper3/10"}
+{"qid": "en_en_098", "query": "define 'responsibilities are possessions' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "paper6"}
+{"qid": "en_en_099", "query": "give an example of using the metaphor 'responsibilities are possessions'.", "lang": "en", "target_lang": "en", "slice": "general", "source": "paper6"}
+{"qid": "en_en_100", "query": "define good is up / bad is down' in simple terms.", "lang": "en", "target_lang": "en", "slice": "metaphor_only", "source": "metaphor_list"}

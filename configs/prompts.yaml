@@ -1,0 +1,23 @@
+families:
+  e5_gte:
+    query: "query: {text}"
+    passage: "passage: {text}"
+  labse:
+    query: "{text}"
+    passage: "{text}"
+
+reranker:
+  pair_format:
+    query_key: "query"
+    passage_key: "passage"
+
+prompts:
+  generator:
+    ro_explain: |
+      Ești profesor de business. Explică pe scurt metafora de mai jos în română, pentru un student român care învață Business English.
+      Metaforă: {term}
+      Cere citări la fragmentele furnizate (ID-uri) dacă le folosești.
+    en_explain: |
+      You are a business instructor. Explain the metaphor below in English, in simple terms for a Romanian student learning Business English.
+      Metaphor: {term}
+      Cite the provided chunk IDs if used.

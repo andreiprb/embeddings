@@ -1,0 +1,5610 @@
+{
+  "query": "Timpul înseamnă bani",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2553",
+      "score": 7.403240708011328
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1021",
+      "score": 7.3005581095985015
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1095",
+      "score": 7.160931433754642
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2572",
+      "score": 6.94194900791696
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2462",
+      "score": 6.782692998102261
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0767",
+      "score": 6.552118609524232
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1862",
+      "score": 6.008058524815031
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1129",
+      "score": 5.980429862068993
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0920",
+      "score": 5.926589865989014
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1828",
+      "score": 5.878714047515047
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0607",
+      "score": 5.834822462836022
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1096",
+      "score": 5.797573944311852
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2536",
+      "score": 5.782853302248996
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1136",
+      "score": 5.717549647868593
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0948",
+      "score": 5.710387052558941
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2525",
+      "score": 5.574534738195637
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2744",
+      "score": 5.335095195760754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1435",
+      "score": 4.774666537363051
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2817",
+      "score": 3.897325382679622
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0163",
+      "score": 3.7601029099548597
+    }
+  ]
+}
+{
+  "query": "Timpul curge printre degete",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1444",
+      "score": 14.280948390184628
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0816",
+      "score": 7.412113292367755
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1586",
+      "score": 7.0683623400184885
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2223",
+      "score": 6.924661394514279
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2572",
+      "score": 6.349067375983406
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0618",
+      "score": 6.16284648333774
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2770",
+      "score": 5.247591423579686
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2768",
+      "score": 5.088544252507695
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2181",
+      "score": 5.080439987015481
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2241",
+      "score": 5.01652349346208
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_3002",
+      "score": 4.954195271702671
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1707",
+      "score": 4.938854467613144
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2307",
+      "score": 4.938854467613144
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2933",
+      "score": 4.9312196379143876
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0605",
+      "score": 4.9160205750013795
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0478",
+      "score": 3.8020503919489754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0338",
+      "score": 3.19227160814386
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2291",
+      "score": 3.1567366295989356
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1899",
+      "score": 2.8771768563399744
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1490",
+      "score": 2.858610972150734
+    }
+  ]
+}
+{
+  "query": "Timpul nu iartă",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2599",
+      "score": 7.725002896967169
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2556",
+      "score": 7.302426337543832
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1906",
+      "score": 7.178268305598829
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2598",
+      "score": 6.942182926601539
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2495",
+      "score": 6.89650463013637
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2555",
+      "score": 6.576670761096489
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2539",
+      "score": 6.459027723402485
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1586",
+      "score": 6.4507907353735
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1585",
+      "score": 6.4485067459165935
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2572",
+      "score": 6.441123069095449
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0372",
+      "score": 6.346842210920755
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2259",
+      "score": 6.339499019776607
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2603",
+      "score": 6.326931056190068
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0540",
+      "score": 6.306788259230192
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2582",
+      "score": 6.2426187903449115
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2258",
+      "score": 5.513751090511681
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2817",
+      "score": 5.486393332644076
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2933",
+      "score": 5.440410802760303
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2770",
+      "score": 5.328587765695952
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2532",
+      "score": 5.096451956989924
+    }
+  ]
+}
+{
+  "query": "Timpul este combustibilul proiectului",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2932",
+      "score": 9.536881770445952
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1617",
+      "score": 9.237637650491056
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0839",
+      "score": 9.087747911401276
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1539",
+      "score": 8.978412933917891
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1538",
+      "score": 8.938831580186944
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0837",
+      "score": 8.524611853143261
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0500",
+      "score": 8.324809902320677
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0838",
+      "score": 8.072344318978253
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1248",
+      "score": 7.93554620146695
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1117",
+      "score": 7.7237162213490915
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0835",
+      "score": 7.6842220037724775
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1603",
+      "score": 7.680777987761136
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1586",
+      "score": 7.535217882082097
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1788",
+      "score": 7.491246476673103
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1533",
+      "score": 7.491246476673103
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2817",
+      "score": 6.832328335878456
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2259",
+      "score": 6.728184905852434
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1124",
+      "score": 5.818166483161397
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2629",
+      "score": 5.807514048884411
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1122",
+      "score": 5.659510620050751
+    }
+  ]
+}
+{
+  "query": "Timpul este moneda productivității",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0908",
+      "score": 10.801216240735448
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0640",
+      "score": 8.67427692067399
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2423",
+      "score": 7.555328270811126
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1586",
+      "score": 7.535217882082097
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2422",
+      "score": 7.460093998945848
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0909",
+      "score": 7.460093998945848
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0315",
+      "score": 7.403004234149567
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2599",
+      "score": 7.300518112639639
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2107",
+      "score": 7.297376029540054
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0639",
+      "score": 7.191705181064302
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1444",
+      "score": 7.19124027584411
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2674",
+      "score": 7.156501410020909
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1085",
+      "score": 7.095815966823778
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2495",
+      "score": 7.070018833864364
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0540",
+      "score": 7.008073207795526
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1741",
+      "score": 6.475824559769261
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2603",
+      "score": 6.326931056190068
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2571",
+      "score": 6.004605106190255
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1476",
+      "score": 5.694137364706655
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2828",
+      "score": 5.473484451967764
+    }
+  ]
+}
+{
+  "query": "Bani lichizi / Banii sunt lichizi",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1095",
+      "score": 9.60737382804283
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1093",
+      "score": 9.15245351587533
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0408",
+      "score": 9.104535489261515
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1401",
+      "score": 8.853269441707937
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1096",
+      "score": 8.479947718220243
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1092",
+      "score": 8.423403635266943
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1963",
+      "score": 8.281501703981816
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0411",
+      "score": 8.129271339992526
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1094",
+      "score": 8.025278560827324
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0409",
+      "score": 7.929233817377696
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2434",
+      "score": 7.797058854589109
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2663",
+      "score": 7.736826266630453
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0824",
+      "score": 7.68080179302169
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2113",
+      "score": 7.60834765171194
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1107",
+      "score": 7.560640994711097
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0902",
+      "score": 7.268028795415022
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0849",
+      "score": 7.102510445303948
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0799",
+      "score": 6.712878603235087
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2462",
+      "score": 5.646396497725591
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2559",
+      "score": 5.167392125054951
+    }
+  ]
+}
+{
+  "query": "Banii se fac și se pierd ca apa",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1886",
+      "score": 17.205084090435605
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0408",
+      "score": 14.42696201188036
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1837",
+      "score": 14.338363171421527
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1938",
+      "score": 14.239640836494848
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1506",
+      "score": 13.093874831235489
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1763",
+      "score": 12.965795542055377
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1589",
+      "score": 12.865060752366706
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1462",
+      "score": 12.325351427804835
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0735",
+      "score": 12.148063729846527
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1937",
+      "score": 12.045549683118471
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2117",
+      "score": 11.993395237740378
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1942",
+      "score": 11.747319050902925
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1080",
+      "score": 11.728106167078975
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1549",
+      "score": 11.654294187250239
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2563",
+      "score": 11.63036013822238
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2113",
+      "score": 11.318402660503635
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2138",
+      "score": 10.455811036147713
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2153",
+      "score": 9.937361580929599
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0341",
+      "score": 9.87704946555753
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1959",
+      "score": 9.644872924815646
+    }
+  ]
+}
+{
+  "query": "Banii sunt sângele afacerii",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0483",
+      "score": 10.221508128329766
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1287",
+      "score": 9.393726400000112
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1959",
+      "score": 8.812793987700266
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2498",
+      "score": 8.745412240738858
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0482",
+      "score": 8.019087683248614
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0409",
+      "score": 7.929233817377696
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1221",
+      "score": 7.9045996810976495
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0408",
+      "score": 7.163738414754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0410",
+      "score": 7.160103037599862
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0735",
+      "score": 6.932978046514623
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0412",
+      "score": 6.798735377177319
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0382",
+      "score": 6.7157055720777645
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1242",
+      "score": 6.626014844722594
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0734",
+      "score": 6.613874386732353
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0381",
+      "score": 6.590982338639759
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2656",
+      "score": 6.353273172924383
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2274",
+      "score": 5.850338520801374
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2500",
+      "score": 5.7942826068824544
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0584",
+      "score": 5.648914507837004
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2486",
+      "score": 5.2644145139349
+    }
+  ]
+}
+{
+  "query": "Banii sunt motorul investițiilor",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1938",
+      "score": 11.270044203221689
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1931",
+      "score": 10.768493925913853
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2011",
+      "score": 10.682761220861337
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1930",
+      "score": 9.992231072363147
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1551",
+      "score": 9.787766560383716
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1580",
+      "score": 8.05196539780197
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0409",
+      "score": 7.929233817377696
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2088",
+      "score": 7.8651463525173275
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1755",
+      "score": 7.826808566071145
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2811",
+      "score": 7.484737551049031
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1579",
+      "score": 7.458745734893187
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2822",
+      "score": 7.457577700610624
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2020",
+      "score": 7.420315179095805
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2288",
+      "score": 7.372341513841629
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2712",
+      "score": 7.28094326493712
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1533",
+      "score": 6.702948015485051
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0824",
+      "score": 5.7577861425835755
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0109",
+      "score": 5.232740970730056
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1833",
+      "score": 5.170073674757912
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2977",
+      "score": 4.987097243853988
+    }
+  ]
+}
+{
+  "query": "Banii se misca",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0735",
+      "score": 6.932978046514623
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2434",
+      "score": 6.89039995328314
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0409",
+      "score": 6.837979655030966
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0408",
+      "score": 6.771293341391926
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0734",
+      "score": 6.613874386732353
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0931",
+      "score": 6.602418570195887
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1469",
+      "score": 6.440031517554774
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1527",
+      "score": 6.403988249915954
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0823",
+      "score": 6.366604753857338
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1401",
+      "score": 6.321396002988401
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1938",
+      "score": 6.252874743378262
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1287",
+      "score": 6.244739815098257
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0849",
+      "score": 6.232146820301788
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2663",
+      "score": 6.18847426548501
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0502",
+      "score": 6.064567055574571
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1128",
+      "score": 5.366551177058414
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0205",
+      "score": 5.303562780903261
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1788",
+      "score": 5.259444887375373
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0819",
+      "score": 5.17626718108639
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1391",
+      "score": 5.121096996960887
+    }
+  ]
+}
+{
+  "query": "Banii sunt răsplata riscului",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0587",
+      "score": 11.846752073158171
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0586",
+      "score": 11.196431210359052
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1469",
+      "score": 10.071586749656936
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0584",
+      "score": 10.033864699063773
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1110",
+      "score": 9.588565216084335
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1470",
+      "score": 9.140795063833753
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0409",
+      "score": 7.929233817377696
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0408",
+      "score": 7.163738414754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0410",
+      "score": 7.160103037599862
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0683",
+      "score": 6.93933210801629
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0735",
+      "score": 6.932978046514623
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2420",
+      "score": 6.870263008239362
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1300",
+      "score": 6.802585399816598
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0412",
+      "score": 6.798735377177319
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1259",
+      "score": 6.773996110313108
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2011",
+      "score": 5.237634272089907
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2498",
+      "score": 5.19494451636597
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1551",
+      "score": 5.188702534687506
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1930",
+      "score": 5.121266662101784
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0550",
+      "score": 4.959234520562513
+    }
+  ]
+}
+{
+  "query": "Banii sunt cheia oportunităților",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2145",
+      "score": 10.556325637418022
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1320",
+      "score": 7.9296344011241136
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0409",
+      "score": 7.929233817377696
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1756",
+      "score": 7.497541207837081
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0506",
+      "score": 7.285641403722307
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0580",
+      "score": 7.184120538899418
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0408",
+      "score": 7.163738414754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0410",
+      "score": 7.160103037599862
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0735",
+      "score": 6.932978046514623
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0412",
+      "score": 6.798735377177319
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0734",
+      "score": 6.613874386732353
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1096",
+      "score": 6.505682576449386
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1083",
+      "score": 6.487491514889689
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1092",
+      "score": 6.452228667924528
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0823",
+      "score": 6.366604753857338
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2318",
+      "score": 5.8160385170822
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2011",
+      "score": 5.237634272089907
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1286",
+      "score": 5.0831455018758245
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2112",
+      "score": 4.897699388073622
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0799",
+      "score": 4.760043425824186
+    }
+  ]
+}
+{
+  "query": "Firma / Compania / Organizația este un organism viu",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0212",
+      "score": 15.682704762564194
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1991",
+      "score": 14.394702014057703
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1052",
+      "score": 12.993490419426497
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1861",
+      "score": 11.819637672346085
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0211",
+      "score": 11.796631562131441
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2950",
+      "score": 11.68942251848073
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2550",
+      "score": 11.584464339711982
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0784",
+      "score": 10.98823454581546
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2154",
+      "score": 10.585778899808531
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2499",
+      "score": 10.450355872122545
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2498",
+      "score": 10.43252825578751
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2894",
+      "score": 10.361772813733012
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1651",
+      "score": 10.34944707665774
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2957",
+      "score": 10.270009092791568
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1739",
+      "score": 10.213682885930762
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1444",
+      "score": 10.123515263241021
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1565",
+      "score": 9.611938230750674
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0519",
+      "score": 9.232558375497096
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0407",
+      "score": 9.002230586589581
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1112",
+      "score": 7.873091943075213
+    }
+  ]
+}
+{
+  "query": "Firma este un castel de idei",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0597",
+      "score": 16.758985195346078
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1243",
+      "score": 15.93835137705943
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1714",
+      "score": 15.121429317503733
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2073",
+      "score": 14.05478372327571
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2904",
+      "score": 13.970303575031167
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1692",
+      "score": 13.714545270058547
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2950",
+      "score": 13.70076623846528
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0476",
+      "score": 13.543391845712371
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1713",
+      "score": 13.494628300558603
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2523",
+      "score": 13.481079677256197
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0544",
+      "score": 13.473230231436755
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0542",
+      "score": 13.382352770636329
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1717",
+      "score": 13.370806549837777
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1704",
+      "score": 13.26689776767699
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2842",
+      "score": 13.061753835325115
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2498",
+      "score": 13.01218845783218
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0719",
+      "score": 12.471864032042612
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0802",
+      "score": 12.208262860728595
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2154",
+      "score": 12.00814716737238
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1071",
+      "score": 11.79271202790731
+    }
+  ]
+}
+{
+  "query": "Firma este un mecanism complex",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2030",
+      "score": 12.083617259447127
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2949",
+      "score": 11.725856653730578
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0048",
+      "score": 11.476494110729657
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0306",
+      "score": 11.285655631741541
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 11.101875534598648
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0888",
+      "score": 10.978187565710794
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1340",
+      "score": 10.899837643500698
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1979",
+      "score": 10.87328948967937
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2682",
+      "score": 10.866041226571472
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0631",
+      "score": 10.673481829413053
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0110",
+      "score": 10.552559000232828
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0047",
+      "score": 10.480214878615016
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2684",
+      "score": 10.421173224775835
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1680",
+      "score": 10.40033526527216
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2031",
+      "score": 10.334342038006174
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1534",
+      "score": 9.715849886727703
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2065",
+      "score": 9.230091638411892
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0407",
+      "score": 9.002230586589581
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1202",
+      "score": 8.48015729104939
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0802",
+      "score": 8.463049817097897
+    }
+  ]
+}
+{
+  "query": "Firma / Compania este o familie",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2739",
+      "score": 14.674496464130778
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1654",
+      "score": 12.493713361984263
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1957",
+      "score": 12.409726152853654
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0251",
+      "score": 12.091095677150127
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1566",
+      "score": 12.083601725696367
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1905",
+      "score": 11.572668214342363
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1653",
+      "score": 11.561662086211639
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1669",
+      "score": 11.539916168639289
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2182",
+      "score": 11.53515335389961
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0732",
+      "score": 11.535068021015817
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1105",
+      "score": 11.395723543808447
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2499",
+      "score": 11.270218287087195
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2307",
+      "score": 11.153717332772347
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2950",
+      "score": 11.054744178382881
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0659",
+      "score": 10.98644896717758
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1013",
+      "score": 10.173414861346965
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2613",
+      "score": 9.579300387447729
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2891",
+      "score": 9.411585365655274
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0771",
+      "score": 9.379471962112767
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 8.886846292091331
+    }
+  ]
+}
+{
+  "query": "Puterea este moneda influenței",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0908",
+      "score": 10.801216240735448
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0508",
+      "score": 8.801846626337191
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2466",
+      "score": 8.74738121979526
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0657",
+      "score": 8.704395231032917
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0640",
+      "score": 8.67427692067399
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2026",
+      "score": 8.447552621480614
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1312",
+      "score": 7.57867738622423
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2423",
+      "score": 7.555328270811126
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0909",
+      "score": 7.460093998945848
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2422",
+      "score": 7.460093998945848
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0315",
+      "score": 7.403004234149567
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0487",
+      "score": 7.346404721094966
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2834",
+      "score": 7.32163385641071
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1663",
+      "score": 7.30781541097471
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2107",
+      "score": 7.297376029540054
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1555",
+      "score": 6.751722877934567
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1738",
+      "score": 6.683910870594419
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1743",
+      "score": 5.832363439195149
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1868",
+      "score": 4.0490348182173115
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2788",
+      "score": 3.948846909272783
+    }
+  ]
+}
+{
+  "query": "Puterea ridică sau doboară",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1312",
+      "score": 6.098764481522029
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0657",
+      "score": 5.858177592973752
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0508",
+      "score": 5.799120109140687
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2466",
+      "score": 5.763996882953804
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0702",
+      "score": 5.741245194042255
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2026",
+      "score": 5.7252406492468735
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1428",
+      "score": 5.374068885234099
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0407",
+      "score": 5.248893107646992
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1013",
+      "score": 5.200198585661013
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1220",
+      "score": 5.1146076530106725
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1313",
+      "score": 4.474599794911447
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0757",
+      "score": 4.353706551707192
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0758",
+      "score": 4.339722390812137
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1314",
+      "score": 4.320527071436325
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2802",
+      "score": 4.257674709753636
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1663",
+      "score": 4.1339468014568554
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2311",
+      "score": 4.086037946348343
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2310",
+      "score": 3.9982936648587057
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1770",
+      "score": 3.7622431646047074
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1635",
+      "score": 3.7059088501481834
+    }
+  ]
+}
+{
+  "query": "Puterea este cheia deciziilor",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2310",
+      "score": 12.148714844093938
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1756",
+      "score": 8.995107741564006
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0508",
+      "score": 8.801846626337191
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2466",
+      "score": 8.74738121979526
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0657",
+      "score": 8.704395231032917
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0506",
+      "score": 8.624393748457113
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2309",
+      "score": 8.571046759550109
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0581",
+      "score": 8.537395790152363
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0313",
+      "score": 8.483995691465916
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2026",
+      "score": 8.447552621480614
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2404",
+      "score": 8.168185651257378
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0580",
+      "score": 7.884589970256723
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2542",
+      "score": 7.880967548169048
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0881",
+      "score": 7.8498332448289
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2414",
+      "score": 7.664912417772686
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2704",
+      "score": 7.213268847687548
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0868",
+      "score": 6.796858516017132
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1492",
+      "score": 6.363756719911971
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 3.447143202337321
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1567",
+      "score": 3.4272758894393
+    }
+  ]
+}
+{
+  "query": "Puterea este energia schimbării",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0551",
+      "score": 10.039255962394604
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1639",
+      "score": 9.465677295966819
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0508",
+      "score": 8.801846626337191
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2466",
+      "score": 8.74738121979526
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0657",
+      "score": 8.704395231032917
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0597",
+      "score": 8.645598881673042
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2026",
+      "score": 8.447552621480614
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0598",
+      "score": 8.392766453985242
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1642",
+      "score": 8.353108864900541
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2631",
+      "score": 8.031137165971362
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1604",
+      "score": 7.984309020433164
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1368",
+      "score": 7.973598283593956
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1640",
+      "score": 7.841696666758439
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2655",
+      "score": 7.690413597593436
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2895",
+      "score": 7.666970654179871
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0758",
+      "score": 7.174536214566235
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1492",
+      "score": 6.363756719911971
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2919",
+      "score": 5.671543952467047
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2627",
+      "score": 4.785650808501011
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0694",
+      "score": 3.948846909272783
+    }
+  ]
+}
+{
+  "query": "Economia urcă sau coboară ca un lift",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0960",
+      "score": 14.19828946823597
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 12.878633476413722
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0101",
+      "score": 10.576050575250527
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1966",
+      "score": 8.962222648254942
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0861",
+      "score": 8.814764901564288
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0890",
+      "score": 7.970915242456933
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0888",
+      "score": 7.944748189964111
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0507",
+      "score": 7.914900180880169
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0894",
+      "score": 7.824585850334296
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0215",
+      "score": 7.758946751948972
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0041",
+      "score": 7.329524421941708
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2209",
+      "score": 7.32716059098073
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1930",
+      "score": 7.273569095470285
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1272",
+      "score": 6.954353771359073
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0042",
+      "score": 6.933176181533515
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2208",
+      "score": 6.6184327683454205
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1940",
+      "score": 6.381308433575038
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0073",
+      "score": 6.166187757902677
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1874",
+      "score": 5.5441635971778425
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2006",
+      "score": 5.427281416104139
+    }
+  ]
+}
+{
+  "query": "Creșterea economică este un val",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2051",
+      "score": 12.631754679055334
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2053",
+      "score": 12.108766764463088
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1801",
+      "score": 11.273478527944562
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1730",
+      "score": 10.524276510041311
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2357",
+      "score": 10.52231252126607
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2163",
+      "score": 10.373814107105842
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0894",
+      "score": 10.344607751935904
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1800",
+      "score": 10.2390221128897
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1137",
+      "score": 10.229438379599031
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1941",
+      "score": 10.196787336272132
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0078",
+      "score": 10.183087960029486
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2277",
+      "score": 10.139161047886924
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0040",
+      "score": 10.093038559436376
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0974",
+      "score": 9.92108371762217
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0045",
+      "score": 9.897610237893586
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2217",
+      "score": 9.784733309015104
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0792",
+      "score": 8.674165069478773
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1742",
+      "score": 8.427158643646193
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0046",
+      "score": 8.395365283875712
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1464",
+      "score": 8.076639417033283
+    }
+  ]
+}
+{
+  "query": "Recesiunea este un tunel întunecat",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1327",
+      "score": 11.018605402136254
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0990",
+      "score": 10.957728879769578
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1482",
+      "score": 10.813315184096616
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0991",
+      "score": 10.41438951418484
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0978",
+      "score": 10.396749276679962
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2699",
+      "score": 10.360629536970116
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2726",
+      "score": 10.294248145495384
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0084",
+      "score": 9.985328606511793
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0125",
+      "score": 9.451160029163775
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0433",
+      "score": 8.91837031047068
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0617",
+      "score": 8.449341649240765
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1166",
+      "score": 7.961275326937532
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1149",
+      "score": 6.96053682131685
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2640",
+      "score": 6.800740031026324
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2842",
+      "score": 6.761728840900472
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0444",
+      "score": 6.458464434766807
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0764",
+      "score": 6.305191020704685
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1122",
+      "score": 6.18618928482477
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2857",
+      "score": 6.169975850472451
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0258",
+      "score": 6.1335530394310425
+    }
+  ]
+}
+{
+  "query": "Economia este o navă în derivă",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1051",
+      "score": 16.287974192991374
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1426",
+      "score": 15.954596969659917
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1052",
+      "score": 15.474154857968886
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1353",
+      "score": 15.159409144374328
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0021",
+      "score": 14.614358929368283
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 14.057946687806144
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0888",
+      "score": 13.981689993891756
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0784",
+      "score": 13.822272835291255
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0078",
+      "score": 13.49561500758702
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1931",
+      "score": 13.446896618314504
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1294",
+      "score": 13.30704037868754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0863",
+      "score": 13.275018312811891
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2013",
+      "score": 12.956950829129266
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1939",
+      "score": 12.864295927995173
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0045",
+      "score": 12.816008461757301
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2209",
+      "score": 12.69057487679214
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0099",
+      "score": 12.341095689500165
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0214",
+      "score": 11.875269493335146
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0794",
+      "score": 11.232839271657152
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2208",
+      "score": 11.029920079130664
+    }
+  ]
+}
+{
+  "query": "Economia este un organism viu",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0784",
+      "score": 15.006728211609653
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1991",
+      "score": 14.394702014057703
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0211",
+      "score": 11.796631562131441
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1052",
+      "score": 11.697707426343285
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2550",
+      "score": 11.584464339711982
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0888",
+      "score": 10.814232174133323
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0894",
+      "score": 10.78043000614408
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0212",
+      "score": 10.663187140703553
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 10.285217433043933
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0078",
+      "score": 9.577224337757933
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2209",
+      "score": 9.543640546919994
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0807",
+      "score": 9.471718036419851
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0895",
+      "score": 9.09474450474147
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0045",
+      "score": 9.089923424671168
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1283",
+      "score": 9.042292372062146
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1939",
+      "score": 8.504777182497968
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0997",
+      "score": 7.56495302153335
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2981",
+      "score": 7.519771569719182
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1617",
+      "score": 7.025846213634521
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1272",
+      "score": 6.868984349536102
+    }
+  ]
+}
+{
+  "query": "Economia pulsează ca o inimă",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1272",
+      "score": 8.073925802535728
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0888",
+      "score": 7.815804871440142
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0786",
+      "score": 7.76108402446653
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1930",
+      "score": 7.697131389867449
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 7.469597600401181
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1931",
+      "score": 7.421509423487866
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1149",
+      "score": 7.40776780162748
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0185",
+      "score": 7.362908684026538
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0187",
+      "score": 7.269970258910908
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0784",
+      "score": 7.195621747877354
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0186",
+      "score": 7.121579238689586
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0078",
+      "score": 7.042378121969852
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0875",
+      "score": 7.038495123822571
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2043",
+      "score": 7.014682915196387
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0215",
+      "score": 6.941101557339556
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2220",
+      "score": 6.415924340556371
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0787",
+      "score": 6.055799071536972
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0045",
+      "score": 5.983229895440912
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1486",
+      "score": 5.898164970328943
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1873",
+      "score": 5.403627149588942
+    }
+  ]
+}
+{
+  "query": "Economia este un ciclu de anotimpuri",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2355",
+      "score": 16.863340492936075
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 15.556183011285949
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0730",
+      "score": 14.875433803299439
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1290",
+      "score": 14.76715769076709
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0894",
+      "score": 14.62433078977073
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0888",
+      "score": 14.597877442205068
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0796",
+      "score": 14.513840639803174
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0799",
+      "score": 14.120962421799385
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1289",
+      "score": 14.08100893198859
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 13.855173990951986
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0797",
+      "score": 13.365555840192052
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2412",
+      "score": 13.318109004836616
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2209",
+      "score": 13.224694012833616
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0078",
+      "score": 13.204297321996819
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2243",
+      "score": 13.163478240722501
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0807",
+      "score": 13.069774528337998
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1142",
+      "score": 12.381800361988045
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2242",
+      "score": 12.298489636338385
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0100",
+      "score": 11.619248424738865
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0215",
+      "score": 11.355824213308082
+    }
+  ]
+}
+{
+  "query": "Piața este o junglă",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1675",
+      "score": 10.864159438309661
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2055",
+      "score": 10.816480298380437
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1950",
+      "score": 10.729486308073875
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1864",
+      "score": 10.723831124245171
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1674",
+      "score": 10.610339957345499
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2281",
+      "score": 10.494281543480799
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1766",
+      "score": 10.439473200743814
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1859",
+      "score": 10.234034705821157
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1988",
+      "score": 10.158534009753959
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1690",
+      "score": 10.149038169346465
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2084",
+      "score": 10.068822675796214
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2133",
+      "score": 10.068822675796214
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1989",
+      "score": 10.063588250954268
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1768",
+      "score": 9.997261493140854
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1765",
+      "score": 9.974984011184933
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1676",
+      "score": 9.478171850850863
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1990",
+      "score": 8.294070930411547
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1841",
+      "score": 8.264679077258641
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1779",
+      "score": 7.933055162168963
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1778",
+      "score": 7.76347268798818
+    }
+  ]
+}
+{
+  "query": "Piața este un ocean în continuă mișcare",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1683",
+      "score": 20.752857564757306
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1985",
+      "score": 16.84672010950097
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2041",
+      "score": 16.00260761165836
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1854",
+      "score": 15.891993151009736
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1471",
+      "score": 15.740677354948918
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1953",
+      "score": 15.339757847568947
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2001",
+      "score": 14.98543011676351
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1979",
+      "score": 14.86629086862494
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2000",
+      "score": 14.712412671815414
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1999",
+      "score": 14.699494764888083
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1369",
+      "score": 14.6409995205604
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1813",
+      "score": 14.48459897881505
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1871",
+      "score": 14.469196643357154
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1952",
+      "score": 14.396020282069433
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1864",
+      "score": 14.228278293347481
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1675",
+      "score": 13.974873470629419
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1811",
+      "score": 12.225189540964704
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1986",
+      "score": 11.92708289457019
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1962",
+      "score": 11.811110207760292
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1948",
+      "score": 11.752329101379164
+    }
+  ]
+}
+{
+  "query": "Piața este un teren de luptă",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1947",
+      "score": 15.944023996894138
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2056",
+      "score": 15.764443339541387
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1954",
+      "score": 15.617816454000666
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1948",
+      "score": 15.338059439334533
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1119",
+      "score": 15.270897742801559
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1121",
+      "score": 14.90584915108349
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1125",
+      "score": 14.57754902071084
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1198",
+      "score": 14.565837739847433
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2834",
+      "score": 14.494101996206986
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1955",
+      "score": 14.4448431726427
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1864",
+      "score": 14.389678790529771
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1194",
+      "score": 14.336983230395873
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1767",
+      "score": 14.314615871253494
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1124",
+      "score": 14.269105874208694
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1988",
+      "score": 14.21766464946145
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0960",
+      "score": 13.495601671932198
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1565",
+      "score": 13.416247750684894
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1477",
+      "score": 13.223232420253598
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2030",
+      "score": 12.491949730934937
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2833",
+      "score": 12.422056578340765
+    }
+  ]
+}
+{
+  "query": "Piața este oglinda cererii și ofertei",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1537",
+      "score": 13.682293607040217
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2691",
+      "score": 13.066277963816034
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1957",
+      "score": 13.021870405537546
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2297",
+      "score": 12.93827972210068
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2041",
+      "score": 12.869673361142981
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1952",
+      "score": 12.857017767528994
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2054",
+      "score": 12.692047163207835
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1951",
+      "score": 12.60294698387688
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1780",
+      "score": 12.098793517116949
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2692",
+      "score": 11.81542190202121
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2401",
+      "score": 11.586681970390698
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1061",
+      "score": 11.491587790153336
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1864",
+      "score": 10.837102648118286
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2347",
+      "score": 10.620895223821162
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1766",
+      "score": 10.603505705312923
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2838",
+      "score": 10.366123751833387
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1950",
+      "score": 9.680523682659684
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1768",
+      "score": 9.466858785844048
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1993",
+      "score": 9.229063840548159
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1662",
+      "score": 8.50516538072128
+    }
+  ]
+}
+{
+  "query": "Piața dictează regulile jocului",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1991",
+      "score": 13.78106430259225
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2834",
+      "score": 12.10736974576919
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0688",
+      "score": 9.972378418319
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0687",
+      "score": 9.626327021442963
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2545",
+      "score": 7.467885929773262
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2835",
+      "score": 6.783286934124557
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1278",
+      "score": 6.719682159647573
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1674",
+      "score": 5.862883130374567
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1863",
+      "score": 5.4714274441581106
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2393",
+      "score": 5.431549683546289
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1812",
+      "score": 5.426072987824187
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1898",
+      "score": 5.422759128054338
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2670",
+      "score": 5.3878796130123465
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1753",
+      "score": 5.319461178711367
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2263",
+      "score": 5.302612796603274
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1768",
+      "score": 4.7441979977399855
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1704",
+      "score": 3.956634879561327
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1594",
+      "score": 3.929911281354813
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1690",
+      "score": 3.8904959497348113
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2056",
+      "score": 3.8349385777815823
+    }
+  ]
+}
+{
+  "query": "Încrederea este fundația echipei",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1946",
+      "score": 14.513378577692388
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1960",
+      "score": 11.789682677233031
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2506",
+      "score": 11.556419914617345
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2543",
+      "score": 11.42727087854827
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2483",
+      "score": 10.395989837075286
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0060",
+      "score": 9.217557351186123
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0711",
+      "score": 9.049740560763151
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0313",
+      "score": 8.795259604337556
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1947",
+      "score": 8.668901411343255
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1931",
+      "score": 8.654906127267006
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1279",
+      "score": 8.641844112942533
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2526",
+      "score": 8.087158513499155
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2652",
+      "score": 7.9655854429329915
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2484",
+      "score": 7.82877265979349
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0427",
+      "score": 7.735141517090014
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2817",
+      "score": 7.4217036496390465
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0551",
+      "score": 6.756718134931927
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2453",
+      "score": 6.506628030498103
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2795",
+      "score": 6.4429160016739795
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2209",
+      "score": 6.3716472188212165
+    }
+  ]
+}
+{
+  "query": "Încrederea este un pod între oameni",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1198",
+      "score": 14.019067540107644
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2209",
+      "score": 12.69094283816976
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0060",
+      "score": 12.576596207885714
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2260",
+      "score": 12.429012558617885
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2211",
+      "score": 12.15527927892268
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1279",
+      "score": 11.782535724120697
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0313",
+      "score": 11.740646291841394
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2210",
+      "score": 11.435662248915298
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2636",
+      "score": 11.310061316878707
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0949",
+      "score": 10.957550575169755
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1197",
+      "score": 10.79921726591131
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2559",
+      "score": 10.75313608825168
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1725",
+      "score": 10.726457059014345
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0535",
+      "score": 10.594593390948578
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1283",
+      "score": 10.422008225550933
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1282",
+      "score": 9.923951939659228
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2261",
+      "score": 9.710778295605657
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2118",
+      "score": 9.19813775349498
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2606",
+      "score": 8.78342423775382
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1165",
+      "score": 8.311296486501375
+    }
+  ]
+}
+{
+  "query": "Încrederea este capital intangibil",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0060",
+      "score": 11.532029960733087
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1279",
+      "score": 10.03151236512115
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0412",
+      "score": 9.424396605707386
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0579",
+      "score": 9.246470753149781
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1283",
+      "score": 8.842940629078045
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0313",
+      "score": 8.795259604337556
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2261",
+      "score": 8.76679855510012
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1278",
+      "score": 8.660093675571343
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2260",
+      "score": 8.42375281465652
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1018",
+      "score": 8.056095275955279
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0056",
+      "score": 7.9050516882927475
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2453",
+      "score": 7.9050516882927475
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2209",
+      "score": 7.737793835649762
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0245",
+      "score": 7.498754219536615
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1282",
+      "score": 7.482089304233966
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2544",
+      "score": 6.515835179316582
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2302",
+      "score": 5.706609469581194
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1293",
+      "score": 5.504991242731164
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0054",
+      "score": 5.0633448410144855
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 4.711948353668534
+    }
+  ]
+}
+{
+  "query": "Jobul este o rampă de lansare",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2586",
+      "score": 16.437058906253785
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2988",
+      "score": 15.694132389226594
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0652",
+      "score": 15.423963478370817
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0651",
+      "score": 15.384784044554904
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0949",
+      "score": 15.203038800262854
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2587",
+      "score": 14.852806714980778
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2585",
+      "score": 14.841294356835604
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2615",
+      "score": 14.79472665244905
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2622",
+      "score": 14.732407958910267
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2271",
+      "score": 14.69231441881594
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2629",
+      "score": 14.509139645713411
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2574",
+      "score": 14.443169359756835
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0544",
+      "score": 14.412756136913837
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0948",
+      "score": 14.313533028823151
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1989",
+      "score": 14.28632082285324
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1186",
+      "score": 12.531693280616867
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2607",
+      "score": 10.207844800218606
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2857",
+      "score": 10.20204455433694
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2992",
+      "score": 10.146374839968274
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1711",
+      "score": 10.059265428554085
+    }
+  ]
+}
+{
+  "query": "Jobul este o arenă de competiție",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1910",
+      "score": 18.37573025803789
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1911",
+      "score": 16.77147060532139
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2586",
+      "score": 16.437058906253785
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1780",
+      "score": 15.463893517026733
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2046",
+      "score": 15.275851148970176
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2072",
+      "score": 15.122708030428232
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2587",
+      "score": 14.852806714980778
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2585",
+      "score": 14.841294356835604
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2615",
+      "score": 14.79472665244905
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2622",
+      "score": 14.732407958910267
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2629",
+      "score": 14.509139645713411
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2574",
+      "score": 14.443169359756835
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0544",
+      "score": 14.412756136913837
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1989",
+      "score": 14.28632082285324
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2535",
+      "score": 14.110980747760065
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2493",
+      "score": 13.531001762999576
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2536",
+      "score": 13.429212698903278
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0543",
+      "score": 13.244809871278427
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1566",
+      "score": 10.288117556083527
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1406",
+      "score": 10.230842737955387
+    }
+  ]
+}
+{
+  "query": "Jobul este un teren de joacă profesional",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1989",
+      "score": 19.87665869766916
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2574",
+      "score": 17.952455255483468
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0540",
+      "score": 17.232155545177875
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0539",
+      "score": 17.089611978820944
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2608",
+      "score": 17.066603414251414
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1464",
+      "score": 16.659611847713304
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0541",
+      "score": 15.411289065461908
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2586",
+      "score": 15.401059900333264
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1119",
+      "score": 15.270897742801559
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2618",
+      "score": 15.253755207623126
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2622",
+      "score": 15.028486406079612
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2615",
+      "score": 15.010702968040667
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1121",
+      "score": 14.90584915108349
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2639",
+      "score": 14.83350105868475
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0048",
+      "score": 14.796081524727667
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1198",
+      "score": 14.565837739847433
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1834",
+      "score": 13.379531704464364
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1170",
+      "score": 13.112042992214123
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2818",
+      "score": 12.349918467327823
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0044",
+      "score": 12.079829092270284
+    }
+  ]
+}
+{
+  "query": "Jobul este o cale spre experiență",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2587",
+      "score": 13.101642030213487
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1661",
+      "score": 12.932848636129812
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2586",
+      "score": 12.701927622599758
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0544",
+      "score": 12.662820513216367
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0766",
+      "score": 12.46383797185689
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2618",
+      "score": 12.06690052580326
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1463",
+      "score": 11.814828229654184
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2705",
+      "score": 11.789905476536742
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1787",
+      "score": 11.775376251182317
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2032",
+      "score": 11.48797042734617
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2104",
+      "score": 11.48797042734617
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1713",
+      "score": 11.471992485419793
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0543",
+      "score": 11.369148338018961
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1712",
+      "score": 11.218892744350757
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0789",
+      "score": 11.204492545864088
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2835",
+      "score": 8.74086988495365
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2861",
+      "score": 8.402753923509216
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0829",
+      "score": 8.048995021958405
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0737",
+      "score": 8.037285464827058
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1297",
+      "score": 7.883897231780405
+    }
+  ]
+}
+{
+  "query": "Jobul poate fi un cuțit cu două tăișuri",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2002",
+      "score": 16.0766255254
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2618",
+      "score": 14.359225073068206
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2586",
+      "score": 13.719120323874085
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1701",
+      "score": 13.527125144223575
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2622",
+      "score": 12.203902054973335
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2620",
+      "score": 12.194414327296482
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2596",
+      "score": 12.11234955227526
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2587",
+      "score": 12.076451206666116
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2575",
+      "score": 11.844270419125289
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0766",
+      "score": 11.620214479645991
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2615",
+      "score": 11.482086851780277
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2535",
+      "score": 11.4041576829334
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0543",
+      "score": 11.25459860151167
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0544",
+      "score": 10.947847275396214
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2982",
+      "score": 10.841777969660074
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1667",
+      "score": 8.86197095361782
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1901",
+      "score": 8.499669562328714
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0229",
+      "score": 8.357407252362187
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1144",
+      "score": 8.326443888835875
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1675",
+      "score": 8.209638611901513
+    }
+  ]
+}
+{
+  "query": "Liderul este farul echipei",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2506",
+      "score": 11.357239260722803
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2543",
+      "score": 11.230576545903038
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1749",
+      "score": 10.965258652234697
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2483",
+      "score": 10.395989837075286
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2505",
+      "score": 10.170888421126449
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0503",
+      "score": 9.184027827277417
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2989",
+      "score": 9.146281287801326
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0711",
+      "score": 9.049740560763151
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2936",
+      "score": 8.775531398798549
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1637",
+      "score": 8.715230795595172
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1882",
+      "score": 8.610121418777691
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2526",
+      "score": 8.087158513499155
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2652",
+      "score": 7.9655854429329915
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2484",
+      "score": 7.82877265979349
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0427",
+      "score": 7.735141517090014
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0426",
+      "score": 7.629039720515722
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0333",
+      "score": 6.20331329874055
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0650",
+      "score": 5.669437968447207
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2165",
+      "score": 5.427407220126863
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1638",
+      "score": 4.329203142782976
+    }
+  ]
+}
+{
+  "query": "Leadershipul este busola deciziilor",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2553",
+      "score": 10.701496012895868
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2309",
+      "score": 8.571046759550109
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2310",
+      "score": 8.150421179235233
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2542",
+      "score": 7.880967548169048
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0881",
+      "score": 7.8498332448289
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2414",
+      "score": 7.664912417772686
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2137",
+      "score": 7.620496681555339
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2141",
+      "score": 7.609474770040703
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0876",
+      "score": 7.5548500057763555
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0882",
+      "score": 7.533223645553584
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0480",
+      "score": 7.354377657463933
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2151",
+      "score": 7.065140344748803
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1225",
+      "score": 6.9745448815638635
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2138",
+      "score": 6.747426074049335
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2152",
+      "score": 6.726564779464473
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2842",
+      "score": 3.380864420450236
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0487",
+      "score": 3.3605884759875435
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1663",
+      "score": 3.352854644305076
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0245",
+      "score": 3.2859497695642164
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0500",
+      "score": 3.272173593505928
+    }
+  ]
+}
+{
+  "query": "Liderul este motorul schimbării",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2821",
+      "score": 11.454215058902415
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2487",
+      "score": 10.878281428420031
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0551",
+      "score": 10.039255962394604
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0503",
+      "score": 9.184027827277417
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2989",
+      "score": 9.146281287801326
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2925",
+      "score": 8.90791832507821
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1637",
+      "score": 8.715230795595172
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0597",
+      "score": 8.645598881673042
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1882",
+      "score": 8.610121418777691
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0598",
+      "score": 8.392766453985242
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2631",
+      "score": 8.031137165971362
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2712",
+      "score": 8.00479386867805
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2422",
+      "score": 7.947271829723565
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1427",
+      "score": 7.866101286826276
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2822",
+      "score": 7.760925809214734
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0049",
+      "score": 7.2576673385794965
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1302",
+      "score": 6.4442368584936585
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1885",
+      "score": 5.571824395430238
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1638",
+      "score": 4.329203142782976
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 3.447143202337321
+    }
+  ]
+}
+{
+  "query": "Liderul deschide drumuri",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1419",
+      "score": 10.117871359582916
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1420",
+      "score": 9.042588376411281
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0726",
+      "score": 8.323945564531261
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2232",
+      "score": 8.31070952038196
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1214",
+      "score": 7.607252137409681
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0147",
+      "score": 7.393593518444529
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2086",
+      "score": 7.291202521459596
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2135",
+      "score": 7.280000533462035
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0520",
+      "score": 7.180710452221408
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2233",
+      "score": 6.808505737295451
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1201",
+      "score": 6.762571959912914
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1915",
+      "score": 6.724764613652215
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0503",
+      "score": 6.499174314155759
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2737",
+      "score": 5.831131235518579
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2989",
+      "score": 5.828906947927603
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2195",
+      "score": 4.8811853081624115
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2821",
+      "score": 4.0184376327517315
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0717",
+      "score": 3.840762055701307
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2988",
+      "score": 3.8002039697112133
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2082",
+      "score": 3.5802527397443793
+    }
+  ]
+}
+{
+  "query": "Liderul este sculptorul performanței echipei",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2506",
+      "score": 11.357239260722803
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2543",
+      "score": 11.230576545903038
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2483",
+      "score": 10.395989837075286
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2505",
+      "score": 10.170888421126449
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1404",
+      "score": 9.341010938579089
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0503",
+      "score": 9.184027827277417
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2989",
+      "score": 9.146281287801326
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0711",
+      "score": 9.049740560763151
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2936",
+      "score": 8.775531398798549
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1637",
+      "score": 8.715230795595172
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1882",
+      "score": 8.610121418777691
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0777",
+      "score": 8.573650687941438
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2526",
+      "score": 8.087158513499155
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2652",
+      "score": 7.9655854429329915
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2484",
+      "score": 7.82877265979349
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2527",
+      "score": 6.822675197393451
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0257",
+      "score": 3.496597225101633
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1944",
+      "score": 3.448571113590935
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 3.447143202337321
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2277",
+      "score": 3.380864420450236
+    }
+  ]
+}
+{
+  "query": "Inovația este scânteia progresului",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1726",
+      "score": 9.174679395714428
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0257",
+      "score": 3.496597225101633
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1944",
+      "score": 3.448571113590935
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 3.447143202337321
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1078",
+      "score": 3.4386005053248354
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2712",
+      "score": 3.434345015027851
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1566",
+      "score": 3.4329288579388866
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0258",
+      "score": 3.4301000446002377
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2739",
+      "score": 3.4286873854669664
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1567",
+      "score": 3.4272758894393
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0273",
+      "score": 3.4272758894393
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0914",
+      "score": 3.4244563809596813
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0736",
+      "score": 3.421641507702787
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0708",
+      "score": 3.40615781716443
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2277",
+      "score": 3.380864420450236
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0045",
+      "score": 3.365245924337081
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2286",
+      "score": 3.3530030306715584
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2607",
+      "score": 3.284221407245268
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2422",
+      "score": 3.2824948621579244
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1703",
+      "score": 3.2602138489176
+    }
+  ]
+}
+{
+  "query": "Inovația sparge tiparele",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2587",
+      "score": 7.191724100002662
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1664",
+      "score": 7.065564125603806
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1663",
+      "score": 6.988988617007697
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2588",
+      "score": 6.837218020435361
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1793",
+      "score": 6.740750801773238
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1031",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1003",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1009",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1008",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1007",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0978",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1005",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1004",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0991",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0992",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1002",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0961",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0972",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1016",
+      "score": 0.0
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1006",
+      "score": 0.0
+    }
+  ]
+}
+{
+  "query": "Inovația este combustibilul afacerii",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2932",
+      "score": 9.536881770445952
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1617",
+      "score": 9.237637650491056
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1539",
+      "score": 8.978412933917891
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1538",
+      "score": 8.938831580186944
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0483",
+      "score": 8.022361279460041
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1242",
+      "score": 7.326334324069663
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2856",
+      "score": 6.987878637556636
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2842",
+      "score": 6.987878637556636
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1356",
+      "score": 6.848479023329292
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1221",
+      "score": 6.816431545143269
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2899",
+      "score": 6.708023817927671
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2850",
+      "score": 6.678167552119465
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1384",
+      "score": 6.678167552119465
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1241",
+      "score": 6.658344451542565
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1343",
+      "score": 6.598975998887088
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1219",
+      "score": 6.304712701238787
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0881",
+      "score": 6.225526109198707
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0538",
+      "score": 5.77059396334922
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1781",
+      "score": 5.239381027291376
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1349",
+      "score": 3.50649123430848
+    }
+  ]
+}
+{
+  "query": "Inovația deschide noi orizonturi",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1989",
+      "score": 8.872686487550792
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1988",
+      "score": 7.957579995187596
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1178",
+      "score": 6.651808076904046
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0521",
+      "score": 6.513351727349922
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1574",
+      "score": 6.19788903296572
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1420",
+      "score": 6.077603885463375
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2736",
+      "score": 6.040985776222194
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1439",
+      "score": 6.040985776222194
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0710",
+      "score": 6.019230170768562
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1419",
+      "score": 5.9670053536157
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1613",
+      "score": 5.947851503177895
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0702",
+      "score": 5.885069918594864
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2737",
+      "score": 5.831131235518579
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2733",
+      "score": 5.424530522704289
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2082",
+      "score": 5.32748185148843
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1655",
+      "score": 5.099106826654294
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1373",
+      "score": 4.574403809430392
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0664",
+      "score": 4.531173246229138
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1934",
+      "score": 3.468349680409704
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2014",
+      "score": 3.383740913871034
+    }
+  ]
+}
+{
+  "query": "Inovația este cheia / cheia competivitatii",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1756",
+      "score": 14.811146258646206
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0506",
+      "score": 14.2760560536146
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0581",
+      "score": 14.118947424494941
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0313",
+      "score": 14.022604695427994
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2404",
+      "score": 13.656127740186484
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0580",
+      "score": 13.45749988930125
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1320",
+      "score": 12.836527791918797
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2318",
+      "score": 11.6320770341644
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2145",
+      "score": 11.41082436167791
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1319",
+      "score": 11.285604598014757
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0257",
+      "score": 3.496597225101633
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1944",
+      "score": 3.448571113590935
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 3.447143202337321
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1078",
+      "score": 3.4386005053248354
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2712",
+      "score": 3.434345015027851
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0818",
+      "score": 3.308585162184092
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2607",
+      "score": 3.284221407245268
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2915",
+      "score": 3.2602138489176
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2365",
+      "score": 3.255114965105467
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2000",
+      "score": 3.250032005413476
+    }
+  ]
+}
+{
+  "query": "Echipa este un mecanism bine uns",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0048",
+      "score": 13.202152724270492
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2746",
+      "score": 12.183696209054329
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2794",
+      "score": 11.57201965352961
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2539",
+      "score": 11.545524808147198
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2614",
+      "score": 11.504987182144333
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0953",
+      "score": 11.427072720247809
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0508",
+      "score": 11.399692990623517
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0138",
+      "score": 11.39279360165133
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2793",
+      "score": 11.290527955690775
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2542",
+      "score": 11.128826730388315
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1357",
+      "score": 11.045938217503448
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1448",
+      "score": 10.826941762327127
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2545",
+      "score": 10.820795172123681
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0040",
+      "score": 10.769213669380227
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0631",
+      "score": 10.673481829413053
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0109",
+      "score": 10.324158124888042
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2435",
+      "score": 9.587324492637867
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2681",
+      "score": 8.591301419561411
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2492",
+      "score": 8.407621019916698
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0428",
+      "score": 7.904428857071936
+    }
+  ]
+}
+{
+  "query": "Echipa este o familie profesională",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2635",
+      "score": 16.51473761916673
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2624",
+      "score": 12.641140208123897
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2559",
+      "score": 12.47768897212779
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2613",
+      "score": 11.908242530770067
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1387",
+      "score": 11.816470439310606
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2595",
+      "score": 11.74017468148147
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1464",
+      "score": 11.426436798045511
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2608",
+      "score": 11.369561149861518
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1957",
+      "score": 11.124164127455135
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2634",
+      "score": 10.873620650340898
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2435",
+      "score": 10.859238936902901
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0097",
+      "score": 10.80859891407784
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2539",
+      "score": 10.79043573220181
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2466",
+      "score": 10.675276181048751
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1104",
+      "score": 10.673658994939393
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2607",
+      "score": 10.486782333664676
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2572",
+      "score": 9.25944224013333
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0937",
+      "score": 9.192965522783584
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0730",
+      "score": 9.080299871006563
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2542",
+      "score": 9.0272469996991
+    }
+  ]
+}
+{
+  "query": "Echipa este un puzzle",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2746",
+      "score": 10.490603096118653
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1909",
+      "score": 10.334528483873468
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2479",
+      "score": 9.955958254874819
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2745",
+      "score": 9.940503702894496
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2478",
+      "score": 9.85480972566474
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2614",
+      "score": 9.745485748883873
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0953",
+      "score": 9.73663800549772
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2539",
+      "score": 9.714192903905115
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0138",
+      "score": 9.68357284061331
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2435",
+      "score": 9.587324492637867
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0353",
+      "score": 9.504305075969462
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2542",
+      "score": 9.448942648116006
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1910",
+      "score": 9.43525454499754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1357",
+      "score": 9.347503145277718
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1185",
+      "score": 9.33111282936103
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2830",
+      "score": 8.948076588892198
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2719",
+      "score": 8.203019795076617
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 6.426257232866683
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0960",
+      "score": 6.366352432591006
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0736",
+      "score": 6.362865897167597
+    }
+  ]
+}
+{
+  "query": "Echipa este lanțul care nu trebuie rupt",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1835",
+      "score": 17.909387860825746
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2539",
+      "score": 16.60901302956399
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0811",
+      "score": 15.240481699845017
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1909",
+      "score": 14.714192669993698
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0508",
+      "score": 14.05026580743001
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1834",
+      "score": 13.925685999089326
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2720",
+      "score": 13.733649421557725
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2830",
+      "score": 13.733649421557725
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2613",
+      "score": 13.62882784710186
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2479",
+      "score": 13.571873718704502
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0428",
+      "score": 13.53776929782292
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2253",
+      "score": 13.479056310408382
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2614",
+      "score": 13.451049410849354
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2594",
+      "score": 13.312172960036676
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1980",
+      "score": 13.309751223872418
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1540",
+      "score": 12.577931138046939
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0711",
+      "score": 11.181205174958668
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2198",
+      "score": 10.876239349800652
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2285",
+      "score": 10.80633705962454
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2757",
+      "score": 10.780648363702596
+    }
+  ]
+}
+{
+  "query": "Echipa este orchestra proiectului",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1967",
+      "score": 13.16920184050142
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1966",
+      "score": 11.693431542113268
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2746",
+      "score": 11.053020534832623
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0952",
+      "score": 10.379907389493852
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1910",
+      "score": 10.214308591194634
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1185",
+      "score": 9.500028131034716
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0839",
+      "score": 9.087747911401276
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0837",
+      "score": 8.524611853143261
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0500",
+      "score": 8.324809902320677
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0838",
+      "score": 8.072344318978253
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2539",
+      "score": 7.944022173289909
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1117",
+      "score": 7.7237162213490915
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0835",
+      "score": 7.6842220037724775
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1603",
+      "score": 7.680777987761136
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2435",
+      "score": 7.677459359957578
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2720",
+      "score": 6.607804209925073
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2830",
+      "score": 6.607804209925073
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0509",
+      "score": 6.28807681977675
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1411",
+      "score": 6.004686998645864
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2719",
+      "score": 5.888769343473349
+    }
+  ]
+}
+{
+  "query": "Strategia este hartă și busolă",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1803",
+      "score": 11.407800757940722
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1775",
+      "score": 11.398758667088284
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1565",
+      "score": 9.714977346147904
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2454",
+      "score": 8.331184417391484
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2899",
+      "score": 8.269440278721428
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2455",
+      "score": 8.261791285220095
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1760",
+      "score": 8.257782161782831
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2465",
+      "score": 8.043135377644427
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2898",
+      "score": 7.99939126088452
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2129",
+      "score": 7.844219449011557
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0043",
+      "score": 7.460695084746925
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1136",
+      "score": 7.140700745296285
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2389",
+      "score": 7.128481719904678
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2436",
+      "score": 6.8439412747812565
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1327",
+      "score": 6.658517624049779
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0451",
+      "score": 6.242311717419393
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1681",
+      "score": 5.925140371693455
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0969",
+      "score": 5.84272024372347
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1946",
+      "score": 5.813923605673955
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2271",
+      "score": 5.774668762005826
+    }
+  ]
+}
+{
+  "query": "Strategia este un joc de șah",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2795",
+      "score": 17.4969849410503
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0629",
+      "score": 15.53717831349777
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0689",
+      "score": 15.264440639506072
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1834",
+      "score": 15.019578329978879
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2899",
+      "score": 14.863225558935563
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2455",
+      "score": 14.335298402354518
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2280",
+      "score": 14.250616758296125
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2353",
+      "score": 14.042354373040004
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2499",
+      "score": 13.983587324024063
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1335",
+      "score": 13.955148173820128
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1835",
+      "score": 13.937374316214722
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1375",
+      "score": 13.837637746363356
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2389",
+      "score": 13.775288122746618
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0043",
+      "score": 13.672878477973608
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0484",
+      "score": 13.610923072864017
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2898",
+      "score": 11.803110692335471
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1039",
+      "score": 11.501487151043273
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2910",
+      "score": 10.77520063179477
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1702",
+      "score": 10.305840294490363
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0960",
+      "score": 10.298903039381841
+    }
+  ]
+}
+{
+  "query": "Strategia este planul de zbor",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1112",
+      "score": 14.923794442804107
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2768",
+      "score": 14.305908268118483
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0841",
+      "score": 14.192202805307957
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2771",
+      "score": 14.15698908676789
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1623",
+      "score": 13.785887305054366
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0381",
+      "score": 13.588087425540563
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0383",
+      "score": 13.148798130766224
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2361",
+      "score": 12.783054751847153
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0561",
+      "score": 12.676502170967527
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1636",
+      "score": 12.584507682079327
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1624",
+      "score": 12.419958469629307
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1175",
+      "score": 12.383831048891839
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1459",
+      "score": 12.149070939147387
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2899",
+      "score": 12.13615765863442
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2455",
+      "score": 12.000277119195225
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1538",
+      "score": 11.588356312570621
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2968",
+      "score": 10.64595359771446
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0800",
+      "score": 10.596997276490336
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2725",
+      "score": 10.378602416705332
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0432",
+      "score": 9.528723995405462
+    }
+  ]
+}
+{
+  "query": "Strategia este fundația succesului",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1946",
+      "score": 14.513378577692388
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1406",
+      "score": 10.98905921006504
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1756",
+      "score": 8.73575549127543
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1947",
+      "score": 8.668901411343255
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1931",
+      "score": 8.654906127267006
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1186",
+      "score": 8.472179318256119
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2251",
+      "score": 8.440884982685697
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2859",
+      "score": 8.436517130092994
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2454",
+      "score": 8.331184417391484
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2899",
+      "score": 8.269440278721428
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2455",
+      "score": 8.261791285220095
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2465",
+      "score": 8.043135377644427
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2898",
+      "score": 7.99939126088452
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2330",
+      "score": 7.893284414878002
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1185",
+      "score": 7.745775438418983
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1320",
+      "score": 6.978830309839488
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1215",
+      "score": 6.495604257881517
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2056",
+      "score": 6.157447459696368
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2920",
+      "score": 5.239598185487093
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0227",
+      "score": 5.071581490286899
+    }
+  ]
+}
+{
+  "query": "Strategia este busola deciziilor în incertitudine",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0598",
+      "score": 13.096491691967849
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0597",
+      "score": 13.081602494478556
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2309",
+      "score": 12.258878976230882
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2454",
+      "score": 11.89747074693935
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2310",
+      "score": 11.782769196665194
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2899",
+      "score": 11.713731203051669
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2465",
+      "score": 11.703032674873944
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2455",
+      "score": 11.532250974389793
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2898",
+      "score": 11.528930780735818
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2542",
+      "score": 11.380177510832228
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2414",
+      "score": 11.369365074509876
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0881",
+      "score": 11.282762102767787
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2141",
+      "score": 11.173318470384151
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0882",
+      "score": 11.167685974937292
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0876",
+      "score": 11.112601746934542
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2768",
+      "score": 10.241576404178527
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1135",
+      "score": 9.83297639085317
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2199",
+      "score": 9.499649594487897
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0432",
+      "score": 9.384272392486345
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2748",
+      "score": 9.37791268155588
+    }
+  ]
+}
+{
+  "query": "Banii sunt bogăție",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0409",
+      "score": 7.929233817377696
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0408",
+      "score": 7.163738414754
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0410",
+      "score": 7.160103037599862
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0735",
+      "score": 6.932978046514623
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0412",
+      "score": 6.798735377177319
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0734",
+      "score": 6.613874386732353
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1096",
+      "score": 6.505682576449386
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1083",
+      "score": 6.487491514889689
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1092",
+      "score": 6.452228667924528
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0823",
+      "score": 6.366604753857338
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1095",
+      "score": 6.29563256296958
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2465",
+      "score": 6.225869629155264
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0411",
+      "score": 6.18847426548501
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1963",
+      "score": 6.164530921839027
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1093",
+      "score": 5.860909175035376
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1080",
+      "score": 5.7704776281094174
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2063",
+      "score": 5.585304639295417
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0587",
+      "score": 5.290568387599178
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0586",
+      "score": 4.779220030904594
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0482",
+      "score": 4.299518049844194
+    }
+  ]
+}
+{
+  "query": "Șomajul este dușmanul",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0257",
+      "score": 3.496597225101633
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1944",
+      "score": 3.448571113590935
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1079",
+      "score": 3.447143202337321
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1078",
+      "score": 3.4386005053248354
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2712",
+      "score": 3.434345015027851
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1566",
+      "score": 3.4329288579388866
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0258",
+      "score": 3.4301000446002377
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2739",
+      "score": 3.4286873854669664
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1567",
+      "score": 3.4272758894393
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0273",
+      "score": 3.4272758894393
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0914",
+      "score": 3.4244563809596813
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0736",
+      "score": 3.421641507702787
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0708",
+      "score": 3.40615781716443
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2842",
+      "score": 3.380864420450236
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2277",
+      "score": 3.380864420450236
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2308",
+      "score": 3.3574906658597676
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2606",
+      "score": 3.3420868895741505
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0597",
+      "score": 3.2534188795491437
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0769",
+      "score": 3.250032005413476
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1950",
+      "score": 3.248341211322742
+    }
+  ]
+}
+{
+  "query": "Șomajul este o boală",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0976",
+      "score": 10.557402943264409
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2403",
+      "score": 7.016983729886318
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1950",
+      "score": 6.869104344540822
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2856",
+      "score": 6.836592871661455
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1944",
+      "score": 6.725897215261538
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0908",
+      "score": 6.6964628158588795
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0889",
+      "score": 6.676724067373985
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0769",
+      "score": 6.675897560494848
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0914",
+      "score": 6.672797592282423
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1946",
+      "score": 6.633993503653759
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2857",
+      "score": 6.630862907643905
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_3018",
+      "score": 6.621083558424119
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1703",
+      "score": 6.617704514777367
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_3017",
+      "score": 6.584031834679881
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1406",
+      "score": 6.55303609848613
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2107",
+      "score": 6.496682422645484
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2957",
+      "score": 6.476970516275031
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2565",
+      "score": 6.393293670222075
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2769",
+      "score": 6.319527782346531
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1681",
+      "score": 6.257161976884881
+    }
+  ]
+}
+{
+  "query": "Competiția dintre organizații este război",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2260",
+      "score": 10.446191373845167
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0285",
+      "score": 9.405887707258048
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2003",
+      "score": 9.222132166850244
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1960",
+      "score": 8.771024875795637
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1194",
+      "score": 8.475908180461694
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2116",
+      "score": 8.398500689071964
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2370",
+      "score": 8.248649113534194
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1670",
+      "score": 8.226784840682344
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1957",
+      "score": 8.13379512494187
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2948",
+      "score": 8.11454362500274
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2684",
+      "score": 7.962549652116226
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1815",
+      "score": 7.703159639537464
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1961",
+      "score": 7.603031316804563
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1958",
+      "score": 7.296419548855638
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2231",
+      "score": 7.112326996173644
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1814",
+      "score": 5.460231383933004
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0668",
+      "score": 5.154681094412506
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2712",
+      "score": 4.118697602654714
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2822",
+      "score": 4.040880163476608
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2055",
+      "score": 3.935454064522594
+    }
+  ]
+}
+{
+  "query": "Criza este o boală",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0976",
+      "score": 10.557402943264409
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1342",
+      "score": 9.504397292484246
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0043",
+      "score": 9.43322616289411
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2911",
+      "score": 9.209578440358332
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0109",
+      "score": 9.181736194722777
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0636",
+      "score": 9.12408247354054
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0950",
+      "score": 9.085705527472026
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1340",
+      "score": 9.057944717812823
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1343",
+      "score": 8.875603859907628
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1294",
+      "score": 8.867416649281587
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2466",
+      "score": 8.840143856281127
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2835",
+      "score": 8.822537319796512
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0244",
+      "score": 8.798547785057297
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2506",
+      "score": 8.755175340110371
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1544",
+      "score": 8.735713575412193
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2851",
+      "score": 8.505371555805675
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1410",
+      "score": 8.005094686553525
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0671",
+      "score": 7.466705009029902
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1347",
+      "score": 7.439248335354408
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1950",
+      "score": 6.869104344540822
+    }
+  ]
+}
+{
+  "query": "Criza este război",
+  "top_k": [
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0285",
+      "score": 11.756140306364163
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2003",
+      "score": 9.222132166850244
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2778",
+      "score": 9.133083196354232
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1670",
+      "score": 8.226784840682344
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2684",
+      "score": 7.962549652116226
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2700",
+      "score": 7.7927621061102785
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1194",
+      "score": 7.668452433516444
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1957",
+      "score": 7.6494000441326335
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1695",
+      "score": 7.522727612980901
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2948",
+      "score": 7.421697880059062
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2370",
+      "score": 7.349044655825736
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1958",
+      "score": 7.296419548855638
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0244",
+      "score": 7.179818504530596
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0043",
+      "score": 7.095582280737341
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1815",
+      "score": 6.979279234962124
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2004",
+      "score": 6.963529408499117
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2467",
+      "score": 5.810384335385175
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1544",
+      "score": 5.777769008699598
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_0670",
+      "score": 5.2072160522454265
+    },
+    {
+      "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2276",
+      "score": 5.150606584316791
+    }
+  ]
+}
