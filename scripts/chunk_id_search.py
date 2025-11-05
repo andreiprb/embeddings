@@ -97,9 +97,10 @@ def prompt_loop(chunks: List[Dict[str, str]]) -> None:
 
         print(f"Found {len(matches)} chunk(s):")
         for cid, raw_txt in matches:
-            print(f"\n=== {cid} ===")
+            print(f"\n{cid}")
+            print("-" * 60)
             print(format_text_block(raw_txt, width=80))
-            print("=" * 60)
+            print("-" * 60)
         print()
 
 
