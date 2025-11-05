@@ -82,7 +82,6 @@ def prompt_loop(chunks: List[Dict[str, str]]) -> None:
     while True:
         try:
             q = input("text> ").strip()
-            norm_q = normalize_spaces(q)
         except (EOFError, KeyboardInterrupt):
             print("\nBye.")
             break
@@ -99,7 +98,6 @@ def prompt_loop(chunks: List[Dict[str, str]]) -> None:
         print(f"Found {len(matches)} chunk(s):")
         for cid, raw_txt in matches:
             preview = format_text_block(raw_txt, width=80).splitlines()
-            preview = "\n".join(preview[:4])
             print(f"- {cid}")
             if preview:
                 print(preview)
