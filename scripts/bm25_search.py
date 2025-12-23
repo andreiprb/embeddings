@@ -182,7 +182,19 @@ def main():
 
     name = category.lower()
 
-    if "ro" in name:
+    # Determine target language from filename
+    # e.g., en_ro.jsonl -> target is ro
+    # e.g., en_en.jsonl -> target is en
+    # e.g., en_ro_translated.jsonl -> target is ro
+    if name.startswith("en_ro"):
+        lang = "ro"
+    elif name.startswith("ro_en"):
+        lang = "en"
+    elif name.startswith("ro_ro"):
+        lang = "ro"
+    elif name.startswith("en_en"):
+        lang = "en"
+    elif "ro" in name:
         lang = "ro"
     elif "en" in name:
         lang = "en"
@@ -211,8 +223,7 @@ def main():
         bm25_search_str = bm25_group.get("search_report").format(category)
         out_rel = bm25_search_str
 
-    idx_path = Path(ROOT, bm25_group.get("pkl").format(
-        lang if suffix == ".md" else category[:2]))
+    idx_path = Path(ROOT, bm25_group.get("pkl").format(lang))
     if not idx_path.exists():
         raise SystemExit(f"BM25 index not found: {idx_path}.")
 

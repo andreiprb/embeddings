@@ -8,3 +8,12 @@
 {"qid": "ro_ro_038", "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_1426", "rank": 1, "score": 15.95, "from": "bm25_ro_mph", "tags": ["metaphor-usage"]}
 {"qid": "ro_ro_067", "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2543", "rank": 1, "score": 11.23, "from": "bm25_ro_mph", "tags": ["metaphor-usage"]}
 {"qid": "ro_ro_067", "chunk_id": "f7567eac6b952a8de97b4624f13c7ec6e539f069_2483", "rank": 1, "score": 10.39, "from": "bm25_ro_mph", "tags": ["metaphor-usage"]}
+
+{"qid": "en_en_039", "chunk_id": "28e798162445605b2dad4038feb2c0444002a4d3_1496", "rank": 1, "score": 10.44, "from": "bm25_en_mph", "tags": ["metaphor-usage"]}
+{"qid": "en_en_039", "chunk_id": "28e798162445605b2dad4038feb2c0444002a4d3_1495", "rank": 1, "score": 10.17, "from": "bm25_en_mph", "tags": ["metaphor-usage"]}
+{"qid": "en_en_040", "chunk_id": "28e798162445605b2dad4038feb2c0444002a4d3_1087", "rank": 1, "score": 14.72, "from": "bm25_en_mph", "tags": ["metaphor-usage"]}
+{"qid": "en_en_040", "chunk_id": "28e798162445605b2dad4038feb2c0444002a4d3_1086", "rank": 1, "score": 0, "from": "bm25_en_mph", "tags": ["metaphor-usage"]}
+{"qid": "en_en_068", "chunk_id": "28e798162445605b2dad4038feb2c0444002a4d3_0392", "rank": 1, "score": 16.75, "from": "bm25_en_mph", "tags": ["metaphor-usage"]}
+{"qid": "en_en_069", "chunk_id": "28e798162445605b2dad4038feb2c0444002a4d3_2150", "rank": 1, "score": 13.93, "from": "bm25_en_mph", "tags": ["metaphor-usage"]}
+
+
